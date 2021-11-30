@@ -22,7 +22,7 @@
 [submodule "OneSampleMR"]
 	path = OneSampleMR
 	url = https://github.com/remlapmot/OneSampleMR
-	branch = release
+	branch = v0.1.3
 [submodule "RMVMR"]
 	path = RMVMR
 	url = https://github.com/WSpiller/RMVMR
@@ -38,7 +38,7 @@
 [submodule "bpbounds"]
 	path = bpbounds
 	url = https://github.com/remlapmot/bpbounds
-	branch = release
+	branch = v0.1.5
 [submodule "cause"]
 	path = cause
 	url = https://github.com/jean997/cause
