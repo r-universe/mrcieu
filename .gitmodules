@@ -58,3 +58,18 @@
 	url = https://github.com/rondolab/MR-PRESSO
 	shallow = true
 	registered = false
+[submodule "finemapr"]
+	path = finemapr
+	url = https://github.com/variani/finemapr
+	shallow = true
+	registered = false
+[submodule "genetics.binaRies"]
+	path = genetics.binaRies
+	url = https://github.com/mrcieu/genetics.binaRies
+	shallow = true
+	registered = false
+[submodule "susieR"]
+	path = susieR
+	url = https://github.com/stephenslab/susieR
+	shallow = true
+	registered = false
