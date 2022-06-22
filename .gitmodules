@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "epigraphdb"]
+	path = epigraphdb
+	url = https://github.com/mrcieu/epigraphdb-r
+	shallow = true
+	registered = true
