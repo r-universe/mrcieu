@@ -171,3 +171,7 @@
 [submodule "varGWASR"]
 	path = varGWASR
 	url = https://github.com/MRCIEU/varGWASR
+[submodule "winnerscurse"]
+	path = winnerscurse
+	url = https://github.com/amandaforde/winnerscurse
+	registered = false
