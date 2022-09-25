@@ -78,6 +78,12 @@
     "from": "mrbma"
   },
   {
+    "package": "MRInstruments",
+    "url": "https://github.com/mrcieu/MRInstruments",
+    "via": ["mrpipeline", "TwoSampleMR"],
+    "from": "mrpipeline"
+  },
+  {
     "package": "MRMix",
     "url": "https://github.com/gqi/MRMix",
     "via": ["CAMeRa", "TwoSampleMR"],
@@ -150,6 +156,12 @@
     "from": "mrbma"
   },
   {
+    "package": "MRMix",
+    "url": "https://github.com/gqi/MRMix",
+    "via": ["mrpipeline", "TwoSampleMR"],
+    "from": "mrpipeline"
+  },
+  {
     "package": "MRPRESSO",
     "url": "https://github.com/rondolab/MR-PRESSO",
     "via": ["CAMeRa", "TwoSampleMR"],
@@ -220,6 +232,12 @@
     "url": "https://github.com/rondolab/MR-PRESSO",
     "via": ["mrbma", "TwoSampleMR"],
     "from": "mrbma"
+  },
+  {
+    "package": "MRPRESSO",
+    "url": "https://github.com/rondolab/MR-PRESSO",
+    "via": ["mrpipeline", "TwoSampleMR"],
+    "from": "mrpipeline"
   },
   {
     "package": "MVMR",
@@ -292,6 +310,12 @@
     "url": "https://github.com/WSpiller/RadialMR",
     "via": ["mrbma", "TwoSampleMR"],
     "from": "mrbma"
+  },
+  {
+    "package": "RadialMR",
+    "url": "https://github.com/WSpiller/RadialMR",
+    "via": ["mrpipeline", "TwoSampleMR"],
+    "from": "mrpipeline"
   },
   {
     "package": "SlopeHunter",
@@ -372,6 +396,12 @@
     "from": "mrbma"
   },
   {
+    "package": "TwoSampleMR",
+    "url": "https://github.com/MRCIEU/TwoSampleMR",
+    "via": ["mrpipeline"],
+    "from": "mrpipeline"
+  },
+  {
     "package": "aciccomp2016",
     "url": "https://github.com/vdorie/aciccomp",
     "via": ["causl"],
@@ -383,6 +413,18 @@
     "url": "https://github.com/variani/finemapr",
     "via": ["gwasglue"],
     "from": "gwasglue"
+  },
+  {
+    "package": "finemapr",
+    "url": "https://github.com/variani/finemapr",
+    "via": ["mrpipeline", "gwasglue"],
+    "from": "mrpipeline"
+  },
+  {
+    "package": "gassocplot",
+    "url": "https://github.com/jrs95/gassocplot",
+    "via": ["mrpipeline"],
+    "from": "mrpipeline"
   },
   {
     "package": "genetics.binaRies",
@@ -409,6 +451,18 @@
     "from": "gwasvcf"
   },
   {
+    "package": "genetics.binaRies",
+    "url": "https://github.com/mrcieu/genetics.binaRies",
+    "via": ["mrpipeline", "gwasglue", "gwasvcf"],
+    "from": "mrpipeline"
+  },
+  {
+    "package": "gwasglue",
+    "url": "https://github.com/MRCIEU/gwasglue",
+    "via": ["mrpipeline"],
+    "from": "mrpipeline"
+  },
+  {
     "package": "gwasglue2",
     "url": "https://github.com/mrcieu/gwasglue2",
     "via": ["GwasDataImport", "gwasvcf"],
@@ -425,6 +479,12 @@
     "url": "https://github.com/mrcieu/gwasglue2",
     "via": ["gwasvcf"],
     "from": "gwasvcf"
+  },
+  {
+    "package": "gwasglue2",
+    "url": "https://github.com/mrcieu/gwasglue2",
+    "via": ["mrpipeline", "gwasglue", "gwasvcf"],
+    "from": "mrpipeline"
   },
   {
     "package": "gwasrapidd",
@@ -449,6 +509,12 @@
     "url": "https://github.com/mrcieu/gwasvcf",
     "via": ["gwasglue"],
     "from": "gwasglue"
+  },
+  {
+    "package": "gwasvcf",
+    "url": "https://github.com/mrcieu/gwasvcf",
+    "via": ["mrpipeline", "gwasglue"],
+    "from": "mrpipeline"
   },
   {
     "package": "ieugwasr",
@@ -493,10 +559,22 @@
     "from": "gwasglue2"
   },
   {
+    "package": "ieugwasr",
+    "url": "https://github.com/MRCIEU/ieugwasr",
+    "via": ["mrpipeline"],
+    "from": "mrpipeline"
+  },
+  {
     "package": "indexevent",
     "url": "https://github.com/DudbridgeLab/indexevent",
     "via": ["genepi.utils"],
     "from": "genepi.utils"
+  },
+  {
+    "package": "mr.ash.alpha",
+    "url": "https://github.com/stephenslab/mr.ash.alpha",
+    "via": ["mrpipeline", "gwasglue", "susieR"],
+    "from": "mrpipeline"
   },
   {
     "package": "mr.raps",
@@ -545,6 +623,12 @@
     "url": "https://github.com/qingyuanzhao/mr.raps",
     "via": ["mr.simss", "TwoSampleMR"],
     "from": "mr.simss"
+  },
+  {
+    "package": "mr.raps",
+    "url": "https://github.com/qingyuanzhao/mr.raps",
+    "via": ["mrpipeline", "TwoSampleMR"],
+    "from": "mrpipeline"
   },
   {
     "package": "pcaMethods",
@@ -617,6 +701,18 @@
     "url": "https://github.com/ropensci/rsnps",
     "via": ["mr.simss", "TwoSampleMR", "mr.raps"],
     "from": "mr.simss"
+  },
+  {
+    "package": "rsnps",
+    "url": "https://github.com/ropensci/rsnps",
+    "via": ["mrpipeline", "TwoSampleMR", "mr.raps"],
+    "from": "mrpipeline"
+  },
+  {
+    "package": "susieR",
+    "url": "https://github.com/stephenslab/susieR",
+    "via": ["mrpipeline", "gwasglue"],
+    "from": "mrpipeline"
   },
   {
     "package": "winnerscurse",

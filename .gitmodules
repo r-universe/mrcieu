@@ -250,6 +250,10 @@
 [submodule "midoc"]
 	path = midoc
 	url = https://github.com/elliecurnow/midoc
+[submodule "mr.ash.alpha"]
+	path = mr.ash.alpha
+	url = https://github.com/stephenslab/mr.ash.alpha
+	registered = false
 [submodule "mr.pivw"]
 	path = mr.pivw
 	url = https://github.com/siqixu/mr.pivw
@@ -317,6 +321,10 @@
 [submodule "sisVIVE"]
 	path = sisVIVE
 	url = https://github.com/cran/sisVIVE
+[submodule "susieR"]
+	path = susieR
+	url = https://github.com/stephenslab/susieR
+	registered = false
 [submodule "tmsens"]
 	path = tmsens
 	url = https://github.com/dea-hazewinkel/tmsens
