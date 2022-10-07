@@ -422,6 +422,12 @@
   {
     "package": "ieugwasr",
     "url": "https://github.com/mrcieu/ieugwasr",
+    "via": ["SlopeHunter"],
+    "from": "SlopeHunter"
+  },
+  {
+    "package": "ieugwasr",
+    "url": "https://github.com/mrcieu/ieugwasr",
     "via": ["TwoSampleMR"],
     "from": "TwoSampleMR"
   },
