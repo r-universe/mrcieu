@@ -162,6 +162,12 @@
     "from": "gwasglue"
   },
   {
+    "package": "genetics.binaRies",
+    "url": "https://github.com/mrcieu/genetics.binaRies",
+    "via": ["gwasvcf"],
+    "from": "gwasvcf"
+  },
+  {
     "package": "gwasvcf",
     "url": "https://github.com/mrcieu/gwasvcf",
     "via": ["gwasglue"],
