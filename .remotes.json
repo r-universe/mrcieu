@@ -1,5 +1,11 @@
 [
   {
+    "package": "CheckSumStats",
+    "url": "https://github.com/MRCIEU/CheckSumStats",
+    "via": ["GwasDataImport"],
+    "from": "GwasDataImport"
+  },
+  {
     "package": "GenomicSEM",
     "url": "https://github.com/GenomicSEM/GenomicSEM",
     "via": ["MRlap"],
@@ -8,6 +14,12 @@
   {
     "package": "MRInstruments",
     "url": "https://github.com/mrcieu/MRInstruments",
+    "via": ["GwasDataImport", "gwasvcf", "gwasglue2", "TwoSampleMR"],
+    "from": "GwasDataImport"
+  },
+  {
+    "package": "MRInstruments",
+    "url": "https://github.com/mrcieu/MRInstruments",
     "via": ["MRlap", "TwoSampleMR"],
     "from": "MRlap"
   },
@@ -68,6 +80,12 @@
   {
     "package": "MRMix",
     "url": "https://github.com/gqi/MRMix",
+    "via": ["GwasDataImport", "gwasvcf", "gwasglue2", "TwoSampleMR"],
+    "from": "GwasDataImport"
+  },
+  {
+    "package": "MRMix",
+    "url": "https://github.com/gqi/MRMix",
     "via": ["MRlap", "TwoSampleMR"],
     "from": "MRlap"
   },
@@ -124,6 +142,12 @@
     "url": "https://github.com/gqi/MRMix",
     "via": ["gwasvcf", "gwasglue2", "TwoSampleMR"],
     "from": "gwasvcf"
+  },
+  {
+    "package": "MRPRESSO",
+    "url": "https://github.com/rondolab/MR-PRESSO",
+    "via": ["GwasDataImport", "gwasvcf", "gwasglue2", "TwoSampleMR"],
+    "from": "GwasDataImport"
   },
   {
     "package": "MRPRESSO",
@@ -194,6 +218,12 @@
   {
     "package": "RadialMR",
     "url": "https://github.com/WSpiller/RadialMR",
+    "via": ["GwasDataImport", "gwasvcf", "gwasglue2", "TwoSampleMR"],
+    "from": "GwasDataImport"
+  },
+  {
+    "package": "RadialMR",
+    "url": "https://github.com/WSpiller/RadialMR",
     "via": ["MRlap", "TwoSampleMR"],
     "from": "MRlap"
   },
@@ -232,6 +262,12 @@
     "url": "https://github.com/WSpiller/RadialMR",
     "via": ["gwasvcf", "gwasglue2", "TwoSampleMR"],
     "from": "gwasvcf"
+  },
+  {
+    "package": "TwoSampleMR",
+    "url": "https://github.com/mrcieu/TwoSampleMR",
+    "via": ["GwasDataImport", "gwasvcf", "gwasglue2"],
+    "from": "GwasDataImport"
   },
   {
     "package": "TwoSampleMR",
@@ -290,6 +326,12 @@
   {
     "package": "genetics.binaRies",
     "url": "https://github.com/mrcieu/genetics.binaRies",
+    "via": ["GwasDataImport", "gwasvcf"],
+    "from": "GwasDataImport"
+  },
+  {
+    "package": "genetics.binaRies",
+    "url": "https://github.com/mrcieu/genetics.binaRies",
     "via": ["gwasglue", "gwasvcf"],
     "from": "gwasglue"
   },
@@ -298,6 +340,12 @@
     "url": "https://github.com/mrcieu/genetics.binaRies",
     "via": ["gwasvcf"],
     "from": "gwasvcf"
+  },
+  {
+    "package": "gwasglue2",
+    "url": "https://github.com/mrcieu/gwasglue2",
+    "via": ["GwasDataImport", "gwasvcf"],
+    "from": "GwasDataImport"
   },
   {
     "package": "gwasglue2",
@@ -312,10 +360,28 @@
     "from": "CheckSumStats"
   },
   {
+    "package": "gwasrapidd",
+    "url": "https://github.com/ramiromagno/gwasrapidd",
+    "via": ["GwasDataImport", "CheckSumStats"],
+    "from": "GwasDataImport"
+  },
+  {
+    "package": "gwasvcf",
+    "url": "https://github.com/MRCIEU/gwasvcf",
+    "via": ["GwasDataImport"],
+    "from": "GwasDataImport"
+  },
+  {
     "package": "gwasvcf",
     "url": "https://github.com/mrcieu/gwasvcf",
     "via": ["gwasglue"],
     "from": "gwasglue"
+  },
+  {
+    "package": "ieugwasr",
+    "url": "https://github.com/mrcieu/ieugwasr",
+    "via": ["GwasDataImport", "gwasvcf", "gwasglue2", "TwoSampleMR"],
+    "from": "GwasDataImport"
   },
   {
     "package": "ieugwasr",
