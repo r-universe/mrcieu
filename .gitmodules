@@ -89,6 +89,10 @@
 [submodule "gwasglue2"]
 	path = gwasglue2
 	url = https://github.com/MRCIEU/gwasglue2
+[submodule "gwasrapidd"]
+	path = gwasrapidd
+	url = https://github.com/ramiromagno/gwasrapidd
+	registered = false
 [submodule "gwasvcf"]
 	path = gwasvcf
 	url = https://github.com/MRCIEU/gwasvcf

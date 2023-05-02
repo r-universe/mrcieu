@@ -306,6 +306,12 @@
     "from": "gwasvcf"
   },
   {
+    "package": "gwasrapidd",
+    "url": "https://github.com/ramiromagno/gwasrapidd",
+    "via": ["CheckSumStats"],
+    "from": "CheckSumStats"
+  },
+  {
     "package": "gwasvcf",
     "url": "https://github.com/mrcieu/gwasvcf",
     "via": ["gwasglue"],
