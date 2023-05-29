@@ -23,3 +23,18 @@
 	url = https://github.com/MRCIEU/MRInstruments
 	shallow = true
 	registered = true
+[submodule "MRMix"]
+	path = MRMix
+	url = https://github.com/gqi/MRMix
+	shallow = true
+	registered = false
+[submodule "MRPRESSO"]
+	path = MRPRESSO
+	url = https://github.com/rondolab/MR-PRESSO
+	shallow = true
+	registered = false
+[submodule "RadialMR"]
+	path = RadialMR
+	url = https://github.com/WSpiller/RadialMR
+	shallow = true
+	registered = false
