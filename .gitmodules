@@ -1,10 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/mrcieu/mrcieu.r-universe.dev
 	shallow = true
 	branch = HEAD
+[submodule "TwoSampleMR"]
+	path = TwoSampleMR
+	url = https://github.com/MRCIEU/TwoSampleMR
+	shallow = true
+	registered = true
 [submodule "epigraphdb"]
 	path = epigraphdb
-	url = https://github.com/mrcieu/epigraphdb-r
+	url = https://github.com/MRCIEU/epigraphdb-r
+	shallow = true
+	registered = true
+[submodule "ieugwasr"]
+	path = ieugwasr
+	url = https://github.com/MRCIEU/ieugwasr
+	shallow = true
+	registered = true
+[submodule "MRInstruments"]
+	path = MRInstruments
+	url = https://github.com/MRCIEU/MRInstruments
 	shallow = true
 	registered = true
