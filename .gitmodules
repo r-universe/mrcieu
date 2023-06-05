@@ -8,6 +8,11 @@
 	url = https://github.com/MRCIEU/epigraphdb-r
 	shallow = true
 	registered = true
+[submodule "genetics.binaRies"]
+	path = genetics.binaRies
+	url = https://github.com/MRCIEU/genetics.binaRies
+	shallow = true
+	registered = true
 [submodule "gwasglue"]
 	path = gwasglue
 	url = https://github.com/MRCIEU/gwasglue
@@ -61,11 +66,6 @@
 [submodule "finemapr"]
 	path = finemapr
 	url = https://github.com/variani/finemapr
-	shallow = true
-	registered = false
-[submodule "genetics.binaRies"]
-	path = genetics.binaRies
-	url = https://github.com/mrcieu/genetics.binaRies
 	shallow = true
 	registered = false
 [submodule "susieR"]
