@@ -1,10 +1,9 @@
 {
   "id": 38193894,
   "created_at": "2023-06-02T14:48:20.000Z",
-  "repository_selection": "selected",
+  "repository_selection": "all",
   "permissions": {
     "metadata": "read",
     "statuses": "write"
-  },
-  "repositories": ["mr-base-api", "MRBase_GWAS_pipeline", "mrcieu.r-universe.dev", "TwoSampleMR"]
+  }
 }
