@@ -3,14 +3,19 @@
 	url = https://github.com/mrcieu/mrcieu.r-universe.dev
 	shallow = true
 	branch = HEAD
-[submodule "TwoSampleMR"]
-	path = TwoSampleMR
-	url = https://github.com/MRCIEU/TwoSampleMR
-	shallow = true
-	registered = true
 [submodule "epigraphdb"]
 	path = epigraphdb
 	url = https://github.com/MRCIEU/epigraphdb-r
+	shallow = true
+	registered = true
+[submodule "gwasglue"]
+	path = gwasglue
+	url = https://github.com/MRCIEU/gwasglue
+	shallow = true
+	registered = true
+[submodule "gwasvcf"]
+	path = gwasvcf
+	url = https://github.com/MRCIEU/gwasvcf
 	shallow = true
 	registered = true
 [submodule "ieugwasr"]
@@ -23,6 +28,26 @@
 	url = https://github.com/MRCIEU/MRInstruments
 	shallow = true
 	registered = true
+[submodule "MVMR"]
+	path = MVMR
+	url = https://github.com/WSpiller/MVMR
+	shallow = true
+	registered = true
+[submodule "RadialMR"]
+	path = RadialMR
+	url = https://github.com/WSpiller/RadialMR
+	shallow = true
+	registered = true
+[submodule "RMVMR"]
+	path = RMVMR
+	url = https://github.com/WSpiller/RMVMR
+	shallow = true
+	registered = true
+[submodule "TwoSampleMR"]
+	path = TwoSampleMR
+	url = https://github.com/MRCIEU/TwoSampleMR
+	shallow = true
+	registered = true
 [submodule "MRMix"]
 	path = MRMix
 	url = https://github.com/gqi/MRMix
@@ -31,10 +56,5 @@
 [submodule "MRPRESSO"]
 	path = MRPRESSO
 	url = https://github.com/rondolab/MR-PRESSO
-	shallow = true
-	registered = false
-[submodule "RadialMR"]
-	path = RadialMR
-	url = https://github.com/WSpiller/RadialMR
 	shallow = true
 	registered = false
