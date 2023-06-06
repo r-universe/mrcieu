@@ -3,6 +3,22 @@
 	url = https://github.com/mrcieu/mrcieu.r-universe.dev
 	shallow = true
 	branch = HEAD
+[submodule "BESIDEMR"]
+	path = BESIDEMR
+	url = https://github.com/CYShapland/BESIDEMR
+	shallow = true
+	registered = true
+[submodule "bpbounds"]
+	path = bpbounds
+	url = https://github.com/remlapmot/bpbounds
+	shallow = true
+	branch = release
+	registered = true
+[submodule "CheckSumStats"]
+	path = CheckSumStats
+	url = https://github.com/MRCIEU/CheckSumStats
+	shallow = true
+	registered = true
 [submodule "epigraphdb"]
 	path = epigraphdb
 	url = https://github.com/MRCIEU/epigraphdb-r
@@ -11,6 +27,11 @@
 [submodule "genetics.binaRies"]
 	path = genetics.binaRies
 	url = https://github.com/MRCIEU/genetics.binaRies
+	shallow = true
+	registered = true
+[submodule "GwasDataImport"]
+	path = GwasDataImport
+	url = https://github.com/MRCIEU/GwasDataImport
 	shallow = true
 	registered = true
 [submodule "gwasglue"]
@@ -28,6 +49,11 @@
 	url = https://github.com/MRCIEU/ieugwasr
 	shallow = true
 	registered = true
+[submodule "mrbayes"]
+	path = mrbayes
+	url = https://github.com/okezie94/mrbayes
+	shallow = true
+	registered = true
 [submodule "MRInstruments"]
 	path = MRInstruments
 	url = https://github.com/MRCIEU/MRInstruments
@@ -38,6 +64,12 @@
 	url = https://github.com/WSpiller/MVMR
 	shallow = true
 	registered = true
+[submodule "OneSampleMR"]
+	path = OneSampleMR
+	url = https://github.com/remlapmot/OneSampleMR
+	shallow = true
+	branch = release
+	registered = true
 [submodule "RadialMR"]
 	path = RadialMR
 	url = https://github.com/WSpiller/RadialMR
@@ -46,6 +78,11 @@
 [submodule "RMVMR"]
 	path = RMVMR
 	url = https://github.com/WSpiller/RMVMR
+	shallow = true
+	registered = true
+[submodule "tmsens"]
+	path = tmsens
+	url = https://github.com/dea-hazewinkel/tmsens
 	shallow = true
 	registered = true
 [submodule "TwoSampleMR"]
