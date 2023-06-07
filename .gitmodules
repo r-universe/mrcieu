@@ -14,11 +14,6 @@
 	shallow = true
 	branch = release
 	registered = true
-[submodule "CheckSumStats"]
-	path = CheckSumStats
-	url = https://github.com/MRCIEU/CheckSumStats
-	shallow = true
-	registered = true
 [submodule "epigraphdb"]
 	path = epigraphdb
 	url = https://github.com/MRCIEU/epigraphdb-r
@@ -27,11 +22,6 @@
 [submodule "genetics.binaRies"]
 	path = genetics.binaRies
 	url = https://github.com/MRCIEU/genetics.binaRies
-	shallow = true
-	registered = true
-[submodule "GwasDataImport"]
-	path = GwasDataImport
-	url = https://github.com/MRCIEU/GwasDataImport
 	shallow = true
 	registered = true
 [submodule "gwasglue"]
