@@ -54,6 +54,11 @@
 	url = https://github.com/WSpiller/MVMR
 	shallow = true
 	registered = true
+[submodule "nlmr"]
+	path = nlmr
+	url = https://github.com/jrs95/nlmr
+	shallow = true
+	registered = true
 [submodule "OneSampleMR"]
 	path = OneSampleMR
 	url = https://github.com/remlapmot/OneSampleMR
