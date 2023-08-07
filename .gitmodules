@@ -5,6 +5,33 @@
 [submodule "BESIDEMR"]
 	path = BESIDEMR
 	url = https://github.com/CYShapland/BESIDEMR
+[submodule "MRInstruments"]
+	path = MRInstruments
+	url = https://github.com/MRCIEU/MRInstruments
+[submodule "MRMix"]
+	path = MRMix
+	url = https://github.com/gqi/MRMix
+	registered = false
+[submodule "MRPRESSO"]
+	path = MRPRESSO
+	url = https://github.com/rondolab/MR-PRESSO
+	registered = false
+[submodule "MVMR"]
+	path = MVMR
+	url = https://github.com/WSpiller/MVMR
+[submodule "OneSampleMR"]
+	path = OneSampleMR
+	url = https://github.com/remlapmot/OneSampleMR
+	branch = release
+[submodule "RMVMR"]
+	path = RMVMR
+	url = https://github.com/WSpiller/RMVMR
+[submodule "RadialMR"]
+	path = RadialMR
+	url = https://github.com/WSpiller/RadialMR
+[submodule "TwoSampleMR"]
+	path = TwoSampleMR
+	url = https://github.com/MRCIEU/TwoSampleMR
 [submodule "bpbounds"]
 	path = bpbounds
 	url = https://github.com/remlapmot/bpbounds
@@ -12,6 +39,10 @@
 [submodule "epigraphdb"]
 	path = epigraphdb
 	url = https://github.com/MRCIEU/epigraphdb-r
+[submodule "finemapr"]
+	path = finemapr
+	url = https://github.com/variani/finemapr
+	registered = false
 [submodule "genetics.binaRies"]
 	path = genetics.binaRies
 	url = https://github.com/MRCIEU/genetics.binaRies
@@ -27,44 +58,13 @@
 [submodule "mrbayes"]
 	path = mrbayes
 	url = https://github.com/okezie94/mrbayes
-[submodule "MRInstruments"]
-	path = MRInstruments
-	url = https://github.com/MRCIEU/MRInstruments
-[submodule "MVMR"]
-	path = MVMR
-	url = https://github.com/WSpiller/MVMR
 [submodule "nlmr"]
 	path = nlmr
 	url = https://github.com/jrs95/nlmr
-[submodule "OneSampleMR"]
-	path = OneSampleMR
-	url = https://github.com/remlapmot/OneSampleMR
-	branch = release
-[submodule "RadialMR"]
-	path = RadialMR
-	url = https://github.com/WSpiller/RadialMR
-[submodule "RMVMR"]
-	path = RMVMR
-	url = https://github.com/WSpiller/RMVMR
-[submodule "tmsens"]
-	path = tmsens
-	url = https://github.com/dea-hazewinkel/tmsens
-[submodule "TwoSampleMR"]
-	path = TwoSampleMR
-	url = https://github.com/MRCIEU/TwoSampleMR
-[submodule "MRMix"]
-	path = MRMix
-	url = https://github.com/gqi/MRMix
-	registered = false
-[submodule "MRPRESSO"]
-	path = MRPRESSO
-	url = https://github.com/rondolab/MR-PRESSO
-	registered = false
-[submodule "finemapr"]
-	path = finemapr
-	url = https://github.com/variani/finemapr
-	registered = false
 [submodule "susieR"]
 	path = susieR
 	url = https://github.com/stephenslab/susieR
 	registered = false
+[submodule "tmsens"]
+	path = tmsens
+	url = https://github.com/dea-hazewinkel/tmsens
