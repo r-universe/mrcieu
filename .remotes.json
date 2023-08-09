@@ -42,6 +42,12 @@
     "from": "gwasglue"
   },
   {
+    "package": "MRInstruments",
+    "url": "https://github.com/mrcieu/MRInstruments",
+    "via": ["gwasglue2", "TwoSampleMR"],
+    "from": "gwasglue2"
+  },
+  {
     "package": "MRMix",
     "url": "https://github.com/gqi/MRMix",
     "via": ["RMVMR", "RadialMR", "TwoSampleMR"],
@@ -84,6 +90,12 @@
     "from": "gwasglue"
   },
   {
+    "package": "MRMix",
+    "url": "https://github.com/gqi/MRMix",
+    "via": ["gwasglue2", "TwoSampleMR"],
+    "from": "gwasglue2"
+  },
+  {
     "package": "MRPRESSO",
     "url": "https://github.com/rondolab/MR-PRESSO",
     "via": ["RMVMR", "RadialMR", "TwoSampleMR"],
@@ -124,6 +136,12 @@
     "url": "https://github.com/rondolab/MR-PRESSO",
     "via": ["gwasglue", "RadialMR", "TwoSampleMR"],
     "from": "gwasglue"
+  },
+  {
+    "package": "MRPRESSO",
+    "url": "https://github.com/rondolab/MR-PRESSO",
+    "via": ["gwasglue2", "TwoSampleMR"],
+    "from": "gwasglue2"
   },
   {
     "package": "MVMR",
@@ -156,6 +174,12 @@
     "from": "gwasglue"
   },
   {
+    "package": "RadialMR",
+    "url": "https://github.com/WSpiller/RadialMR",
+    "via": ["gwasglue2", "TwoSampleMR"],
+    "from": "gwasglue2"
+  },
+  {
     "package": "TwoSampleMR",
     "url": "https://github.com/mrcieu/twosamplemr",
     "via": ["RMVMR", "RadialMR"],
@@ -184,6 +208,12 @@
     "url": "https://github.com/mrcieu/twosamplemr",
     "via": ["gwasglue", "RadialMR"],
     "from": "gwasglue"
+  },
+  {
+    "package": "TwoSampleMR",
+    "url": "https://github.com/mrcieu/TwoSampleMR",
+    "via": ["gwasglue2"],
+    "from": "gwasglue2"
   },
   {
     "package": "finemapr",
@@ -250,6 +280,12 @@
     "url": "https://github.com/mrcieu/ieugwasr",
     "via": ["gwasglue", "RadialMR", "TwoSampleMR"],
     "from": "gwasglue"
+  },
+  {
+    "package": "ieugwasr",
+    "url": "https://github.com/mrcieu/ieugwasr",
+    "via": ["gwasglue2", "TwoSampleMR"],
+    "from": "gwasglue2"
   },
   {
     "package": "susieR",
