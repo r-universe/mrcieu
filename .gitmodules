@@ -49,6 +49,9 @@
 [submodule "gwasglue"]
 	path = gwasglue
 	url = https://github.com/MRCIEU/gwasglue
+[submodule "gwasglue2"]
+	path = gwasglue2
+	url = https://github.com/MRCIEU/gwasglue2
 [submodule "gwasvcf"]
 	path = gwasvcf
 	url = https://github.com/MRCIEU/gwasvcf
