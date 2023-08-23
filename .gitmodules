@@ -29,6 +29,9 @@
 [submodule "RadialMR"]
 	path = RadialMR
 	url = https://github.com/WSpiller/RadialMR
+[submodule "SUMnlmr"]
+	path = SUMnlmr
+	url = https://github.com/amymariemason/SUMnlmr
 [submodule "TwoSampleMR"]
 	path = TwoSampleMR
 	url = https://github.com/MRCIEU/TwoSampleMR
