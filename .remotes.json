@@ -48,6 +48,12 @@
     "from": "gwasglue2"
   },
   {
+    "package": "MRInstruments",
+    "url": "https://github.com/mrcieu/MRInstruments",
+    "via": ["gwasvcf", "gwasglue2", "TwoSampleMR"],
+    "from": "gwasvcf"
+  },
+  {
     "package": "MRMix",
     "url": "https://github.com/gqi/MRMix",
     "via": ["RMVMR", "RadialMR", "TwoSampleMR"],
@@ -96,6 +102,12 @@
     "from": "gwasglue2"
   },
   {
+    "package": "MRMix",
+    "url": "https://github.com/gqi/MRMix",
+    "via": ["gwasvcf", "gwasglue2", "TwoSampleMR"],
+    "from": "gwasvcf"
+  },
+  {
     "package": "MRPRESSO",
     "url": "https://github.com/rondolab/MR-PRESSO",
     "via": ["RMVMR", "RadialMR", "TwoSampleMR"],
@@ -142,6 +154,12 @@
     "url": "https://github.com/rondolab/MR-PRESSO",
     "via": ["gwasglue2", "TwoSampleMR"],
     "from": "gwasglue2"
+  },
+  {
+    "package": "MRPRESSO",
+    "url": "https://github.com/rondolab/MR-PRESSO",
+    "via": ["gwasvcf", "gwasglue2", "TwoSampleMR"],
+    "from": "gwasvcf"
   },
   {
     "package": "MVMR",
@@ -180,6 +198,12 @@
     "from": "gwasglue2"
   },
   {
+    "package": "RadialMR",
+    "url": "https://github.com/WSpiller/RadialMR",
+    "via": ["gwasvcf", "gwasglue2", "TwoSampleMR"],
+    "from": "gwasvcf"
+  },
+  {
     "package": "TwoSampleMR",
     "url": "https://github.com/mrcieu/twosamplemr",
     "via": ["RMVMR", "RadialMR"],
@@ -216,6 +240,12 @@
     "from": "gwasglue2"
   },
   {
+    "package": "TwoSampleMR",
+    "url": "https://github.com/mrcieu/TwoSampleMR",
+    "via": ["gwasvcf", "gwasglue2"],
+    "from": "gwasvcf"
+  },
+  {
     "package": "finemapr",
     "url": "https://github.com/variani/finemapr",
     "via": ["gwasglue"],
@@ -230,6 +260,12 @@
   {
     "package": "genetics.binaRies",
     "url": "https://github.com/mrcieu/genetics.binaRies",
+    "via": ["gwasvcf"],
+    "from": "gwasvcf"
+  },
+  {
+    "package": "gwasglue2",
+    "url": "https://github.com/mrcieu/gwasglue2",
     "via": ["gwasvcf"],
     "from": "gwasvcf"
   },
@@ -286,6 +322,12 @@
     "url": "https://github.com/mrcieu/ieugwasr",
     "via": ["gwasglue2", "TwoSampleMR"],
     "from": "gwasglue2"
+  },
+  {
+    "package": "ieugwasr",
+    "url": "https://github.com/mrcieu/ieugwasr",
+    "via": ["gwasvcf", "gwasglue2", "TwoSampleMR"],
+    "from": "gwasvcf"
   },
   {
     "package": "susieR",
