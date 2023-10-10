@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bpbounds",
+    "releasetag": true
+  },
+  {
+    "package": "OneSampleMR",
+    "releasetag": true
+  }
+]
