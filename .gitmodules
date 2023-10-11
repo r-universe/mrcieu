@@ -8,6 +8,10 @@
 [submodule "GRAPPLE"]
 	path = GRAPPLE
 	url = https://github.com/jingshuw/GRAPPLE
+[submodule "GenomicSEM"]
+	path = GenomicSEM
+	url = https://github.com/GenomicSEM/GenomicSEM
+	registered = false
 [submodule "MRInstruments"]
 	path = MRInstruments
 	url = https://github.com/MRCIEU/MRInstruments
