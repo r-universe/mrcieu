@@ -5,6 +5,9 @@
 [submodule "BESIDEMR"]
 	path = BESIDEMR
 	url = https://github.com/CYShapland/BESIDEMR
+[submodule "GRAPPLE"]
+	path = GRAPPLE
+	url = https://github.com/jingshuw/GRAPPLE
 [submodule "MRInstruments"]
 	path = MRInstruments
 	url = https://github.com/MRCIEU/MRInstruments
@@ -42,6 +45,9 @@
 [submodule "cause"]
 	path = cause
 	url = https://github.com/jean997/cause
+[submodule "causl"]
+	path = causl
+	url = https://github.com/rje42/causl
 [submodule "epigraphdb"]
 	path = epigraphdb
 	url = https://github.com/MRCIEU/epigraphdb-r
