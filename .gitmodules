@@ -19,6 +19,9 @@
 	path = MRPRESSO
 	url = https://github.com/rondolab/MR-PRESSO
 	registered = false
+[submodule "MRlap"]
+	path = MRlap
+	url = https://github.com/n-mounier/MRlap
 [submodule "MVMR"]
 	path = MVMR
 	url = https://github.com/WSpiller/MVMR
