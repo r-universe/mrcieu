@@ -45,6 +45,9 @@
 [submodule "TwoSampleMR"]
 	path = TwoSampleMR
 	url = https://github.com/MRCIEU/TwoSampleMR
+[submodule "alspac"]
+	path = alspac
+	url = https://github.com/explodecomputer/alspac
 [submodule "bpbounds"]
 	path = bpbounds
 	url = https://github.com/remlapmot/bpbounds
@@ -55,9 +58,15 @@
 [submodule "causl"]
 	path = causl
 	url = https://github.com/rje42/causl
+[submodule "dmrff"]
+	path = dmrff
+	url = https://github.com/perishky/dmrff
 [submodule "epigraphdb"]
 	path = epigraphdb
 	url = https://github.com/MRCIEU/epigraphdb-r
+[submodule "ewaff"]
+	path = ewaff
+	url = https://github.com/perishky/ewaff
 [submodule "finemapr"]
 	path = finemapr
 	url = https://github.com/variani/finemapr
@@ -77,6 +86,15 @@
 [submodule "ieugwasr"]
 	path = ieugwasr
 	url = https://github.com/MRCIEU/ieugwasr
+[submodule "journalclub"]
+	path = journalclub
+	url = https://github.com/perishky/journalclub
+[submodule "meffil"]
+	path = meffil
+	url = https://github.com/perishky/meffil
+[submodule "meffonym"]
+	path = meffonym
+	url = https://github.com/perishky/meffonym
 [submodule "mrbayes"]
 	path = mrbayes
 	url = https://github.com/okezie94/mrbayes
