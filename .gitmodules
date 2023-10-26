@@ -5,6 +5,9 @@
 [submodule "BESIDEMR"]
 	path = BESIDEMR
 	url = https://github.com/CYShapland/BESIDEMR
+[submodule "CheckSumStats"]
+	path = CheckSumStats
+	url = https://github.com/MRCIEU/CheckSumStats
 [submodule "GRAPPLE"]
 	path = GRAPPLE
 	url = https://github.com/jingshuw/GRAPPLE
@@ -12,6 +15,12 @@
 	path = GenomicSEM
 	url = https://github.com/GenomicSEM/GenomicSEM
 	registered = false
+[submodule "GwasDataImport"]
+	path = GwasDataImport
+	url = https://github.com/MRCIEU/GwasDataImport
+[submodule "MRAID"]
+	path = MRAID
+	url = https://github.com/yuanzhongshang/MRAID
 [submodule "MRInstruments"]
 	path = MRInstruments
 	url = https://github.com/MRCIEU/MRInstruments
@@ -108,3 +117,6 @@
 [submodule "tmsens"]
 	path = tmsens
 	url = https://github.com/dea-hazewinkel/tmsens
+[submodule "varGWASR"]
+	path = varGWASR
+	url = https://github.com/MRCIEU/varGWASR
