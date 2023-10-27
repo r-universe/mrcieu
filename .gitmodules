@@ -108,6 +108,9 @@
 [submodule "meffonym"]
 	path = meffonym
 	url = https://github.com/perishky/meffonym
+[submodule "metaboprep"]
+	path = metaboprep
+	url = https://github.com/MRCIEU/metaboprep
 [submodule "mrbayes"]
 	path = mrbayes
 	url = https://github.com/okezie94/mrbayes
