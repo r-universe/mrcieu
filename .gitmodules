@@ -14,7 +14,6 @@
 [submodule "GenomicSEM"]
 	path = GenomicSEM
 	url = https://github.com/GenomicSEM/GenomicSEM
-	registered = false
 [submodule "GwasDataImport"]
 	path = GwasDataImport
 	url = https://github.com/MRCIEU/GwasDataImport
