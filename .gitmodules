@@ -20,6 +20,9 @@
 [submodule "MRAID"]
 	path = MRAID
 	url = https://github.com/yuanzhongshang/MRAID
+[submodule "MRBEE"]
+	path = MRBEE
+	url = https://github.com/noahlorinczcomi/MRBEE
 [submodule "MRInstruments"]
 	path = MRInstruments
 	url = https://github.com/MRCIEU/MRInstruments
@@ -95,12 +98,18 @@
 [submodule "gwasvcf"]
 	path = gwasvcf
 	url = https://github.com/MRCIEU/gwasvcf
+[submodule "hyprcoloc"]
+	path = hyprcoloc
+	url = https://github.com/jrs95/hyprcoloc
 [submodule "ieugwasr"]
 	path = ieugwasr
 	url = https://github.com/MRCIEU/ieugwasr
 [submodule "journalclub"]
 	path = journalclub
 	url = https://github.com/perishky/journalclub
+[submodule "lhcMR"]
+	path = lhcMR
+	url = https://github.com/LizaDarrous/lhcMR
 [submodule "meffil"]
 	path = meffil
 	url = https://github.com/perishky/meffil
@@ -113,6 +122,15 @@
 [submodule "mrbayes"]
 	path = mrbayes
 	url = https://github.com/okezie94/mrbayes
+[submodule "mrclust"]
+	path = mrclust
+	url = https://github.com/cnfoley/mrclust
+[submodule "mrcovreg"]
+	path = mrcovreg
+	url = https://github.com/aj-grant/mrcovreg
+[submodule "navmix"]
+	path = navmix
+	url = https://github.com/aj-grant/navmix
 [submodule "nlmr"]
 	path = nlmr
 	url = https://github.com/jrs95/nlmr
