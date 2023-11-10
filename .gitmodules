@@ -32,10 +32,13 @@
 [submodule "MRInstruments"]
 	path = MRInstruments
 	url = https://github.com/MRCIEU/MRInstruments
+[submodule "MRMiSTERI"]
+	path = MRMiSTERI
+	url = https://github.com/zhonghualiu/MRMiSTERI
+	subdir = MRMiSTERI
 [submodule "MRMix"]
 	path = MRMix
 	url = https://github.com/gqi/MRMix
-	registered = false
 [submodule "MRPATH"]
 	path = MRPATH
 	url = https://github.com/danieliong/MRPATH
@@ -140,9 +143,9 @@
 [submodule "mrclust"]
 	path = mrclust
 	url = https://github.com/cnfoley/mrclust
-[submodule "mrcovreg"]
-	path = mrcovreg
-	url = https://github.com/aj-grant/mrcovreg
+[submodule "mrlocus"]
+	path = mrlocus
+	url = https://github.com/thelovelab/mrlocus
 [submodule "mrsensemakr"]
 	path = mrsensemakr
 	url = https://github.com/carloscinelli/mrsensemakr
