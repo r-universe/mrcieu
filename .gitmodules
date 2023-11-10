@@ -5,6 +5,12 @@
 [submodule "BESIDEMR"]
 	path = BESIDEMR
 	url = https://github.com/CYShapland/BESIDEMR
+[submodule "BWMR"]
+	path = BWMR
+	url = https://github.com/jiazhao97/BWMR
+[submodule "CIVMR"]
+	path = CIVMR
+	url = https://github.com/LaiJiang/CIVMR
 [submodule "CheckSumStats"]
 	path = CheckSumStats
 	url = https://github.com/MRCIEU/CheckSumStats
@@ -30,10 +36,19 @@
 	path = MRMix
 	url = https://github.com/gqi/MRMix
 	registered = false
+[submodule "MRPATH"]
+	path = MRPATH
+	url = https://github.com/danieliong/MRPATH
 [submodule "MRPRESSO"]
 	path = MRPRESSO
 	url = https://github.com/rondolab/MR-PRESSO
 	registered = false
+[submodule "MRTool"]
+	path = MRTool
+	url = https://github.com/askieslinger/MRTool
+[submodule "MRchecks"]
+	path = MRchecks
+	url = https://github.com/jalabrecque/MRchecks
 [submodule "MRlap"]
 	path = MRlap
 	url = https://github.com/n-mounier/MRlap
@@ -128,6 +143,9 @@
 [submodule "mrcovreg"]
 	path = mrcovreg
 	url = https://github.com/aj-grant/mrcovreg
+[submodule "mrsensemakr"]
+	path = mrsensemakr
+	url = https://github.com/carloscinelli/mrsensemakr
 [submodule "navmix"]
 	path = navmix
 	url = https://github.com/aj-grant/navmix
