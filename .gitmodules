@@ -100,6 +100,9 @@
 	path = finemapr
 	url = https://github.com/variani/finemapr
 	registered = false
+[submodule "genepi.utils"]
+	path = genepi.utils
+	url = https://github.com/nicksunderland/genepi.utils
 [submodule "genetics.binaRies"]
 	path = genetics.binaRies
 	url = https://github.com/MRCIEU/genetics.binaRies
