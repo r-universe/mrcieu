@@ -8,6 +8,9 @@
 [submodule "BWMR"]
 	path = BWMR
 	url = https://github.com/jiazhao97/BWMR
+[submodule "CAMERA"]
+	path = CAMERA
+	url = https://github.com/yoonsucho/CAMERA
 [submodule "CIVMR"]
 	path = CIVMR
 	url = https://github.com/LaiJiang/CIVMR
