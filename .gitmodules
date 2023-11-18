@@ -74,6 +74,9 @@
 [submodule "SUMnlmr"]
 	path = SUMnlmr
 	url = https://github.com/amymariemason/SUMnlmr
+[submodule "SlopeHunter"]
+	path = SlopeHunter
+	url = https://github.com/Osmahmoud/SlopeHunter
 [submodule "TwoSampleMR"]
 	path = TwoSampleMR
 	url = https://github.com/MRCIEU/TwoSampleMR
