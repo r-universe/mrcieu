@@ -26,6 +26,9 @@
 [submodule "GwasDataImport"]
 	path = GwasDataImport
 	url = https://github.com/MRCIEU/GwasDataImport
+[submodule "MR.CUE"]
+	path = MR.CUE
+	url = https://github.com/QingCheng0218/MR.CUE
 [submodule "MRAID"]
 	path = MRAID
 	url = https://github.com/yuanzhongshang/MRAID
