@@ -20,6 +20,9 @@
 [submodule "GRAPPLE"]
 	path = GRAPPLE
 	url = https://github.com/jingshuw/GRAPPLE
+[submodule "GWASBrewer"]
+	path = GWASBrewer
+	url = https://github.com/jean997/GWASBrewer
 [submodule "GenomicSEM"]
 	path = GenomicSEM
 	url = https://github.com/GenomicSEM/GenomicSEM
