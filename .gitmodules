@@ -170,6 +170,9 @@
 [submodule "nlmr"]
 	path = nlmr
 	url = https://github.com/jrs95/nlmr
+[submodule "simmr"]
+	path = simmr
+	url = https://github.com/noahlorinczcomi/simmr
 [submodule "susieR"]
 	path = susieR
 	url = https://github.com/stephenslab/susieR
