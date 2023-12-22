@@ -410,6 +410,12 @@
   {
     "package": "ieugwasr",
     "url": "https://github.com/mrcieu/ieugwasr",
+    "via": ["MRAPSS"],
+    "from": "MRAPSS"
+  },
+  {
+    "package": "ieugwasr",
+    "url": "https://github.com/mrcieu/ieugwasr",
     "via": ["MRlap", "TwoSampleMR"],
     "from": "MRlap"
   },
