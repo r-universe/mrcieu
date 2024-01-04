@@ -32,6 +32,9 @@
 [submodule "MR.CUE"]
 	path = MR.CUE
 	url = https://github.com/QingCheng0218/MR.CUE
+[submodule "MR2"]
+	path = MR2
+	url = https://github.com/lb664/MR2
 [submodule "MRAID"]
 	path = MRAID
 	url = https://github.com/yuanzhongshang/MRAID
