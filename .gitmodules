@@ -74,6 +74,9 @@
 	path = OneSampleMR
 	url = https://github.com/remlapmot/OneSampleMR
 	branch = v0.1.3
+[submodule "RFQT"]
+	path = RFQT
+	url = https://github.com/HDTian/RFQT
 [submodule "RMVMR"]
 	path = RMVMR
 	url = https://github.com/WSpiller/RMVMR
