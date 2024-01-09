@@ -32,12 +32,18 @@
 [submodule "MR.CUE"]
 	path = MR.CUE
 	url = https://github.com/QingCheng0218/MR.CUE
+[submodule "MR.Corr2"]
+	path = MR.Corr2
+	url = https://github.com/QingCheng0218/MR.Corr2
 [submodule "MR2"]
 	path = MR2
 	url = https://github.com/lb664/MR2
 [submodule "MRAID"]
 	path = MRAID
 	url = https://github.com/yuanzhongshang/MRAID
+[submodule "MRAPSS"]
+	path = MRAPSS
+	url = https://github.com/YangLabHKUST/MR-APSS
 [submodule "MRBEE"]
 	path = MRBEE
 	url = https://github.com/noahlorinczcomi/MRBEE
@@ -61,6 +67,9 @@
 [submodule "MRTool"]
 	path = MRTool
 	url = https://github.com/askieslinger/MRTool
+[submodule "MRcML"]
+	path = MRcML
+	url = https://github.com/xue-hr/MRcML
 [submodule "MRchecks"]
 	path = MRchecks
 	url = https://github.com/jalabrecque/MRchecks
@@ -70,6 +79,9 @@
 [submodule "MVMR"]
 	path = MVMR
 	url = https://github.com/WSpiller/MVMR
+[submodule "MVMRcML"]
+	path = MVMRcML
+	url = https://github.com/ZhaotongL/MVMR-cML
 [submodule "OneSampleMR"]
 	path = OneSampleMR
 	url = https://github.com/remlapmot/OneSampleMR
