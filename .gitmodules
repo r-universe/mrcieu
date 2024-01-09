@@ -35,6 +35,9 @@
 [submodule "MR.Corr2"]
 	path = MR.Corr2
 	url = https://github.com/QingCheng0218/MR.Corr2
+[submodule "MR.LDP"]
+	path = MR.LDP
+	url = https://github.com/QingCheng0218/MR.LDP
 [submodule "MR2"]
 	path = MR2
 	url = https://github.com/lb664/MR2
