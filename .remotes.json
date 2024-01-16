@@ -6,12 +6,6 @@
     "from": "GwasDataImport"
   },
   {
-    "package": "GenomicSEM",
-    "url": "https://github.com/GenomicSEM/GenomicSEM",
-    "via": ["MRlap"],
-    "from": "MRlap"
-  },
-  {
     "package": "MRInstruments",
     "url": "https://github.com/mrcieu/MRInstruments",
     "via": ["CAMERA", "TwoSampleMR"],
@@ -22,12 +16,6 @@
     "url": "https://github.com/mrcieu/MRInstruments",
     "via": ["GwasDataImport", "gwasvcf", "gwasglue2", "TwoSampleMR"],
     "from": "GwasDataImport"
-  },
-  {
-    "package": "MRInstruments",
-    "url": "https://github.com/mrcieu/MRInstruments",
-    "via": ["MRlap", "TwoSampleMR"],
-    "from": "MRlap"
   },
   {
     "package": "MRInstruments",
@@ -92,12 +80,6 @@
   {
     "package": "MRMix",
     "url": "https://github.com/gqi/MRMix",
-    "via": ["MRlap", "TwoSampleMR"],
-    "from": "MRlap"
-  },
-  {
-    "package": "MRMix",
-    "url": "https://github.com/gqi/MRMix",
     "via": ["RMVMR", "RadialMR", "TwoSampleMR"],
     "from": "RMVMR"
   },
@@ -154,12 +136,6 @@
     "url": "https://github.com/rondolab/MR-PRESSO",
     "via": ["GwasDataImport", "gwasvcf", "gwasglue2", "TwoSampleMR"],
     "from": "GwasDataImport"
-  },
-  {
-    "package": "MRPRESSO",
-    "url": "https://github.com/rondolab/MR-PRESSO",
-    "via": ["MRlap", "TwoSampleMR"],
-    "from": "MRlap"
   },
   {
     "package": "MRPRESSO",
@@ -229,12 +205,6 @@
   },
   {
     "package": "RadialMR",
-    "url": "https://github.com/WSpiller/RadialMR",
-    "via": ["MRlap", "TwoSampleMR"],
-    "from": "MRlap"
-  },
-  {
-    "package": "RadialMR",
     "url": "https://github.com/wspiller/radialmr",
     "via": ["RMVMR"],
     "from": "RMVMR"
@@ -280,12 +250,6 @@
     "url": "https://github.com/mrcieu/TwoSampleMR",
     "via": ["GwasDataImport", "gwasvcf", "gwasglue2"],
     "from": "GwasDataImport"
-  },
-  {
-    "package": "TwoSampleMR",
-    "url": "https://github.com/MRCIEU/TwoSampleMR",
-    "via": ["MRlap"],
-    "from": "MRlap"
   },
   {
     "package": "TwoSampleMR",
@@ -412,12 +376,6 @@
     "url": "https://github.com/mrcieu/ieugwasr",
     "via": ["MRAPSS"],
     "from": "MRAPSS"
-  },
-  {
-    "package": "ieugwasr",
-    "url": "https://github.com/mrcieu/ieugwasr",
-    "via": ["MRlap", "TwoSampleMR"],
-    "from": "MRlap"
   },
   {
     "package": "ieugwasr",
