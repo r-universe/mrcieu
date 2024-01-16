@@ -73,9 +73,6 @@
 [submodule "MRchecks"]
 	path = MRchecks
 	url = https://github.com/jalabrecque/MRchecks
-[submodule "MRlap"]
-	path = MRlap
-	url = https://github.com/n-mounier/MRlap
 [submodule "MVMR"]
 	path = MVMR
 	url = https://github.com/WSpiller/MVMR
