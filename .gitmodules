@@ -5,9 +5,6 @@
 [submodule "BESIDEMR"]
 	path = BESIDEMR
 	url = https://github.com/CYShapland/BESIDEMR
-[submodule "BWMR"]
-	path = BWMR
-	url = https://github.com/jiazhao97/BWMR
 [submodule "CAMERA"]
 	path = CAMERA
 	url = https://github.com/yoonsucho/CAMERA
@@ -164,9 +161,6 @@
 [submodule "lhcMR"]
 	path = lhcMR
 	url = https://github.com/LizaDarrous/lhcMR
-[submodule "meffil"]
-	path = meffil
-	url = https://github.com/perishky/meffil
 [submodule "meffonym"]
 	path = meffonym
 	url = https://github.com/perishky/meffonym
