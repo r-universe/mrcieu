@@ -32,6 +32,12 @@
   {
     "package": "MRInstruments",
     "url": "https://github.com/mrcieu/MRInstruments",
+    "via": ["genepi.utils", "TwoSampleMR"],
+    "from": "genepi.utils"
+  },
+  {
+    "package": "MRInstruments",
+    "url": "https://github.com/mrcieu/MRInstruments",
     "via": ["gwasglue", "TwoSampleMR"],
     "from": "gwasglue"
   },
@@ -92,6 +98,12 @@
   {
     "package": "MRMix",
     "url": "https://github.com/gqi/MRMix",
+    "via": ["genepi.utils", "TwoSampleMR"],
+    "from": "genepi.utils"
+  },
+  {
+    "package": "MRMix",
+    "url": "https://github.com/gqi/MRMix",
     "via": ["gwasglue", "TwoSampleMR"],
     "from": "gwasglue"
   },
@@ -148,6 +160,12 @@
     "url": "https://github.com/rondolab/MR-PRESSO",
     "via": ["TwoSampleMR"],
     "from": "TwoSampleMR"
+  },
+  {
+    "package": "MRPRESSO",
+    "url": "https://github.com/rondolab/MR-PRESSO",
+    "via": ["genepi.utils", "TwoSampleMR"],
+    "from": "genepi.utils"
   },
   {
     "package": "MRPRESSO",
@@ -218,6 +236,12 @@
   {
     "package": "RadialMR",
     "url": "https://github.com/WSpiller/RadialMR",
+    "via": ["genepi.utils", "TwoSampleMR"],
+    "from": "genepi.utils"
+  },
+  {
+    "package": "RadialMR",
+    "url": "https://github.com/WSpiller/RadialMR",
     "via": ["gwasglue", "TwoSampleMR"],
     "from": "gwasglue"
   },
@@ -238,6 +262,12 @@
     "url": "https://github.com/WSpiller/RadialMR",
     "via": ["gwasvcf", "gwasglue2", "TwoSampleMR"],
     "from": "gwasvcf"
+  },
+  {
+    "package": "SlopeHunter",
+    "url": "https://github.com/Osmahmoud/SlopeHunter",
+    "via": ["genepi.utils"],
+    "from": "genepi.utils"
   },
   {
     "package": "TwoSampleMR",
@@ -262,6 +292,12 @@
     "url": "https://github.com/mrcieu/twosamplemr",
     "via": ["TwoSampleMR", "RadialMR"],
     "from": "TwoSampleMR"
+  },
+  {
+    "package": "TwoSampleMR",
+    "url": "https://github.com/MRCIEU/TwoSampleMR",
+    "via": ["genepi.utils"],
+    "from": "genepi.utils"
   },
   {
     "package": "TwoSampleMR",
@@ -394,6 +430,12 @@
     "url": "https://github.com/mrcieu/ieugwasr",
     "via": ["TwoSampleMR"],
     "from": "TwoSampleMR"
+  },
+  {
+    "package": "ieugwasr",
+    "url": "https://github.com/mrcieu/ieugwasr",
+    "via": ["genepi.utils", "TwoSampleMR"],
+    "from": "genepi.utils"
   },
   {
     "package": "ieugwasr",
