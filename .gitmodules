@@ -52,7 +52,8 @@
 	url = https://github.com/MRCIEU/MRInstruments
 [submodule "MRMiSTERI"]
 	path = MRMiSTERI
-	url = https://github.com/zhonghualiu/MRMiSTERI
+	url = https://github.com/remlapmot/MRMiSTERI
+	branch = suggestions
 	subdir = MRMiSTERI
 [submodule "MRMix"]
 	path = MRMix
@@ -164,6 +165,9 @@
 [submodule "metaboprep"]
 	path = metaboprep
 	url = https://github.com/MRCIEU/metaboprep
+[submodule "midoc"]
+	path = midoc
+	url = https://github.com/elliecurnow/midoc
 [submodule "mr.simss"]
 	path = mr.simss
 	url = https://github.com/amandaforde/mr.simss
