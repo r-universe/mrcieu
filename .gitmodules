@@ -80,6 +80,9 @@
 [submodule "MVMRcML"]
 	path = MVMRcML
 	url = https://github.com/ZhaotongL/MVMR-cML
+[submodule "MendelianRandomization"]
+	path = MendelianRandomization
+	url = https://github.com/sb452/MendelianRandomization
 [submodule "OneSampleMR"]
 	path = OneSampleMR
 	url = https://github.com/remlapmot/OneSampleMR
