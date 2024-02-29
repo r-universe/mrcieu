@@ -83,6 +83,9 @@
 [submodule "MendelianRandomization"]
 	path = MendelianRandomization
 	url = https://github.com/sb452/MendelianRandomization
+[submodule "MrMediation"]
+	path = MrMediation
+	url = https://github.com/ZixuanWu1/MrMediation
 [submodule "OneSampleMR"]
 	path = OneSampleMR
 	url = https://github.com/remlapmot/OneSampleMR
