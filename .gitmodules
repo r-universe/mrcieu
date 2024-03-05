@@ -132,8 +132,8 @@
 	url = https://github.com/perishky/ewaff
 [submodule "finemapr"]
 	path = finemapr
-	url = https://github.com/variani/finemapr
-	registered = false
+	url = https://github.com/remlapmot/finemapr
+	branch = suggestions
 [submodule "genepi.utils"]
 	path = genepi.utils
 	url = https://github.com/nicksunderland/genepi.utils
@@ -165,9 +165,6 @@
 [submodule "lhcMR"]
 	path = lhcMR
 	url = https://github.com/LizaDarrous/lhcMR
-[submodule "meffonym"]
-	path = meffonym
-	url = https://github.com/perishky/meffonym
 [submodule "metaboprep"]
 	path = metaboprep
 	url = https://github.com/MRCIEU/metaboprep
@@ -183,6 +180,10 @@
 [submodule "mrclust"]
 	path = mrclust
 	url = https://github.com/cnfoley/mrclust
+[submodule "mrcovreg"]
+	path = mrcovreg
+	url = https://github.com/remlapmot/mrcovreg
+	branch = suggestions
 [submodule "mrlocus"]
 	path = mrlocus
 	url = https://github.com/thelovelab/mrlocus
