@@ -60,7 +60,8 @@
 	url = https://github.com/gqi/MRMix
 [submodule "MRPATH"]
 	path = MRPATH
-	url = https://github.com/danieliong/MRPATH
+	url = https://github.com/remlapmot/MRPATH
+	branch = suggestions
 [submodule "MRPRESSO"]
 	path = MRPRESSO
 	url = https://github.com/rondolab/MR-PRESSO
@@ -141,6 +142,9 @@
 [submodule "genetics.binaRies"]
 	path = genetics.binaRies
 	url = https://github.com/MRCIEU/genetics.binaRies
+[submodule "geni.plots"]
+	path = geni.plots
+	url = https://github.com/jrs95/geni.plots
 [submodule "gwasglue"]
 	path = gwasglue
 	url = https://github.com/MRCIEU/gwasglue
@@ -160,12 +164,18 @@
 [submodule "ieugwasr"]
 	path = ieugwasr
 	url = https://github.com/MRCIEU/ieugwasr
+[submodule "jlst"]
+	path = jlst
+	url = https://github.com/jrs95/jlst
 [submodule "journalclub"]
 	path = journalclub
 	url = https://github.com/perishky/journalclub
 [submodule "lhcMR"]
 	path = lhcMR
 	url = https://github.com/LizaDarrous/lhcMR
+[submodule "lmrse"]
+	path = lmrse
+	url = https://github.com/jrs95/lmrse
 [submodule "metaboprep"]
 	path = metaboprep
 	url = https://github.com/MRCIEU/metaboprep
