@@ -46,8 +46,7 @@
 	url = https://github.com/YangLabHKUST/MR-APSS
 [submodule "MRBEE"]
 	path = MRBEE
-	url = https://github.com/remlapmot/MRBEE
-	branch = suggestions
+	url = https://github.com/noahlorinczcomi/MRBEE
 [submodule "MRInstruments"]
 	path = MRInstruments
 	url = https://github.com/MRCIEU/MRInstruments
