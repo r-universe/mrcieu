@@ -209,6 +209,9 @@
 [submodule "tmsens"]
 	path = tmsens
 	url = https://github.com/dea-hazewinkel/tmsens
+[submodule "tryx"]
+	path = tryx
+	url = https://github.com/explodecomputer/tryx
 [submodule "varGWASR"]
 	path = varGWASR
 	url = https://github.com/MRCIEU/varGWASR
