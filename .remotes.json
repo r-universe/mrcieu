@@ -522,6 +522,12 @@
     "from": "gwasvcf"
   },
   {
+    "package": "indexevent",
+    "url": "https://github.com/DudbridgeLab/indexevent",
+    "via": ["genepi.utils"],
+    "from": "genepi.utils"
+  },
+  {
     "package": "susieR",
     "url": "https://github.com/stephenslab/susieR",
     "via": ["gwasglue"],
