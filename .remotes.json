@@ -374,12 +374,6 @@
   {
     "package": "gwasglue2",
     "url": "https://github.com/mrcieu/gwasglue2",
-    "via": ["genepi.utils", "TwoSampleMR", "ieugwasr"],
-    "from": "genepi.utils"
-  },
-  {
-    "package": "gwasglue2",
-    "url": "https://github.com/mrcieu/gwasglue2",
     "via": ["gwasvcf"],
     "from": "gwasvcf"
   },
