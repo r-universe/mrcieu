@@ -295,7 +295,7 @@
   },
   {
     "package": "TwoSampleMR",
-    "url": "https://github.com/MRCIEU/TwoSampleMR",
+    "url": "https://github.com/mrcieu/TwoSampleMR",
     "via": ["genepi.utils"],
     "from": "genepi.utils"
   },
