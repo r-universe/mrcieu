@@ -7,7 +7,7 @@
 	url = https://github.com/CYShapland/BESIDEMR
 [submodule "CAMERA"]
 	path = CAMERA
-	url = https://github.com/yoonsucho/CAMERA
+	url = https://github.com/MRCIEU/CAMERA
 [submodule "CIVMR"]
 	path = CIVMR
 	url = https://github.com/LaiJiang/CIVMR
