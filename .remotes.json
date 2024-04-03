@@ -8,12 +8,6 @@
   {
     "package": "MRInstruments",
     "url": "https://github.com/mrcieu/MRInstruments",
-    "via": ["CAMERA", "TwoSampleMR"],
-    "from": "CAMERA"
-  },
-  {
-    "package": "MRInstruments",
-    "url": "https://github.com/mrcieu/MRInstruments",
     "via": ["GwasDataImport", "gwasvcf", "gwasglue2", "TwoSampleMR"],
     "from": "GwasDataImport"
   },
@@ -74,12 +68,6 @@
   {
     "package": "MRMix",
     "url": "https://github.com/gqi/MRMix",
-    "via": ["CAMERA", "TwoSampleMR"],
-    "from": "CAMERA"
-  },
-  {
-    "package": "MRMix",
-    "url": "https://github.com/gqi/MRMix",
     "via": ["GwasDataImport", "gwasvcf", "gwasglue2", "TwoSampleMR"],
     "from": "GwasDataImport"
   },
@@ -136,12 +124,6 @@
     "url": "https://github.com/gqi/MRMix",
     "via": ["gwasvcf", "gwasglue2", "TwoSampleMR"],
     "from": "gwasvcf"
-  },
-  {
-    "package": "MRPRESSO",
-    "url": "https://github.com/rondolab/MR-PRESSO",
-    "via": ["CAMERA", "TwoSampleMR"],
-    "from": "CAMERA"
   },
   {
     "package": "MRPRESSO",
@@ -212,12 +194,6 @@
   {
     "package": "RadialMR",
     "url": "https://github.com/WSpiller/RadialMR",
-    "via": ["CAMERA", "TwoSampleMR"],
-    "from": "CAMERA"
-  },
-  {
-    "package": "RadialMR",
-    "url": "https://github.com/WSpiller/RadialMR",
     "via": ["GwasDataImport", "gwasvcf", "gwasglue2", "TwoSampleMR"],
     "from": "GwasDataImport"
   },
@@ -268,12 +244,6 @@
     "url": "https://github.com/Osmahmoud/SlopeHunter",
     "via": ["genepi.utils"],
     "from": "genepi.utils"
-  },
-  {
-    "package": "TwoSampleMR",
-    "url": "https://github.com/MRCIEU/TwoSampleMR",
-    "via": ["CAMERA"],
-    "from": "CAMERA"
   },
   {
     "package": "TwoSampleMR",
@@ -337,12 +307,6 @@
   },
   {
     "package": "genetics.binaRies",
-    "url": "https://github.com/explodecomputer/genetics.binaRies",
-    "via": ["CAMERA"],
-    "from": "CAMERA"
-  },
-  {
-    "package": "genetics.binaRies",
     "url": "https://github.com/mrcieu/genetics.binaRies",
     "via": ["GwasDataImport", "gwasvcf"],
     "from": "GwasDataImport"
@@ -400,12 +364,6 @@
     "url": "https://github.com/mrcieu/gwasvcf",
     "via": ["gwasglue"],
     "from": "gwasglue"
-  },
-  {
-    "package": "ieugwasr",
-    "url": "https://github.com/MRCIEU/ieugwasr",
-    "via": ["CAMERA"],
-    "from": "CAMERA"
   },
   {
     "package": "ieugwasr",
@@ -490,11 +448,5 @@
     "url": "https://github.com/stephenslab/susieR",
     "via": ["gwasglue"],
     "from": "gwasglue"
-  },
-  {
-    "package": "winnerscurse",
-    "url": "https://github.com/amandaforde/winnerscurse",
-    "via": ["CAMERA"],
-    "from": "CAMERA"
   }
 ]
