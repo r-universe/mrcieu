@@ -5,8 +5,8 @@
 [submodule "BESIDEMR"]
 	path = BESIDEMR
 	url = https://github.com/CYShapland/BESIDEMR
-[submodule "CAMERA"]
-	path = CAMERA
+[submodule "CAMeRa"]
+	path = CAMeRa
 	url = https://github.com/MRCIEU/CAMERA
 [submodule "CIVMR"]
 	path = CIVMR
