@@ -156,9 +156,6 @@
 [submodule "gwasvcf"]
 	path = gwasvcf
 	url = https://github.com/MRCIEU/gwasvcf
-[submodule "hyprcoloc"]
-	path = hyprcoloc
-	url = https://github.com/jrs95/hyprcoloc
 [submodule "ieugwasr"]
 	path = ieugwasr
 	url = https://github.com/MRCIEU/ieugwasr
