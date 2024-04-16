@@ -159,7 +159,7 @@
 [submodule "hyprcoloc"]
 	path = hyprcoloc
 	url = https://github.com/jrs95/hyprcoloc
-	branch = original
+	branch = v0.0.1
 [submodule "ieugwasr"]
 	path = ieugwasr
 	url = https://github.com/MRCIEU/ieugwasr
