@@ -86,7 +86,7 @@
 	url = https://github.com/ZhaotongL/MVMR-cML
 [submodule "MendelianRandomization"]
 	path = MendelianRandomization
-	url = https://github.com/sb452/MendelianRandomization
+	url = https://github.com/cran/MendelianRandomization
 [submodule "MrMediation"]
 	path = MrMediation
 	url = https://github.com/remlapmot/MrMediation
