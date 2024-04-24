@@ -66,9 +66,6 @@
 	path = MRPRESSO
 	url = https://github.com/rondolab/MR-PRESSO
 	registered = false
-[submodule "MRSamePopTest"]
-	path = MRSamePopTest
-	url = https://github.com/bar-woolf/MRSamePopTest
 [submodule "MRTool"]
 	path = MRTool
 	url = https://github.com/askieslinger/MRTool
