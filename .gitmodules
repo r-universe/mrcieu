@@ -161,7 +161,6 @@
 [submodule "indexevent"]
 	path = indexevent
 	url = https://github.com/DudbridgeLab/indexevent
-	registered = false
 [submodule "jlst"]
 	path = jlst
 	url = https://github.com/jrs95/jlst
