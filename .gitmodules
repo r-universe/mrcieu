@@ -5,6 +5,10 @@
 [submodule "BESIDEMR"]
 	path = BESIDEMR
 	url = https://github.com/CYShapland/BESIDEMR
+[submodule "BWMR"]
+	path = BWMR
+	url = https://github.com/remlapmot/BWMR
+	branch = suggestions
 [submodule "CAMeRa"]
 	path = CAMeRa
 	url = https://github.com/MRCIEU/CAMERA
