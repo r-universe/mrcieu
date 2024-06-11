@@ -35,6 +35,9 @@
 [submodule "MR.LDP"]
 	path = MR.LDP
 	url = https://github.com/QingCheng0218/MR.LDP
+[submodule "MR.RGM"]
+	path = MR.RGM
+	url = https://github.com/bitansa/MR.RGM
 [submodule "MR2"]
 	path = MR2
 	url = https://github.com/lb664/MR2
@@ -62,12 +65,18 @@
 	path = MRPATH
 	url = https://github.com/remlapmot/MRPATH
 	branch = suggestions
+[submodule "MRPC"]
+	path = MRPC
+	url = https://github.com/audreyqyfu/mrpc
 [submodule "MRPRESSO"]
 	path = MRPRESSO
 	url = https://github.com/rondolab/MR-PRESSO
 [submodule "MRTool"]
 	path = MRTool
 	url = https://github.com/askieslinger/MRTool
+[submodule "MRZero"]
+	path = MRZero
+	url = https://github.com/cran/MRZero
 [submodule "MRcML"]
 	path = MRcML
 	url = https://github.com/xue-hr/MRcML
@@ -139,6 +148,12 @@
 [submodule "geni.plots"]
 	path = geni.plots
 	url = https://github.com/jrs95/geni.plots
+[submodule "gsmr"]
+	path = gsmr
+	url = https://github.com/jianyanglab/gsmr
+[submodule "gsmr2"]
+	path = gsmr2
+	url = https://github.com/jianyanglab/gsmr2
 [submodule "gwasglue"]
 	path = gwasglue
 	url = https://github.com/MRCIEU/gwasglue
@@ -155,12 +170,18 @@
 [submodule "hyprcoloc"]
 	path = hyprcoloc
 	url = https://github.com/jrs95/hyprcoloc
+[submodule "iGasso"]
+	path = iGasso
+	url = https://github.com/cran/iGasso
 [submodule "ieugwasr"]
 	path = ieugwasr
 	url = https://github.com/MRCIEU/ieugwasr
 [submodule "indexevent"]
 	path = indexevent
 	url = https://github.com/DudbridgeLab/indexevent
+[submodule "ivmodel"]
+	path = ivmodel
+	url = https://github.com/hyunseungkang/ivmodel
 [submodule "jlst"]
 	path = jlst
 	url = https://github.com/jrs95/jlst
@@ -208,6 +229,9 @@
 [submodule "simmrd"]
 	path = simmrd
 	url = https://github.com/noahlorinczcomi/simmrd
+[submodule "sisVIVE"]
+	path = sisVIVE
+	url = https://github.com/cran/sisVIVE
 [submodule "susieR"]
 	path = susieR
 	url = https://github.com/stephenslab/susieR
