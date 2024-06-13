@@ -103,7 +103,7 @@
 [submodule "OneSampleMR"]
 	path = OneSampleMR
 	url = https://github.com/remlapmot/OneSampleMR
-	branch = v0.1.3
+	branch = v0.1.4
 [submodule "RFQT"]
 	path = RFQT
 	url = https://github.com/HDTian/RFQT
