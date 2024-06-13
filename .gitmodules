@@ -129,7 +129,7 @@
 [submodule "bpbounds"]
 	path = bpbounds
 	url = https://github.com/remlapmot/bpbounds
-	branch = v0.1.5
+	branch = v0.1.6
 [submodule "cause"]
 	path = cause
 	url = https://github.com/jean997/cause
