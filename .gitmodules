@@ -136,6 +136,9 @@
 [submodule "causl"]
 	path = causl
 	url = https://github.com/rje42/causl
+[submodule "cit"]
+	path = cit
+	url = https://github.com/USCbiostats/cit
 [submodule "epigraphdb"]
 	path = epigraphdb
 	url = https://github.com/MRCIEU/epigraphdb-r
