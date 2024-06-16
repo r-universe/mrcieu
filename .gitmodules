@@ -18,6 +18,10 @@
 [submodule "CheckSumStats"]
 	path = CheckSumStats
 	url = https://github.com/MRCIEU/CheckSumStats
+[submodule "EpiViz"]
+	path = EpiViz
+	url = https://github.com/mattlee821/EpiViz
+	subdir = R_package
 [submodule "GRAPPLE"]
 	path = GRAPPLE
 	url = https://github.com/jingshuw/GRAPPLE
