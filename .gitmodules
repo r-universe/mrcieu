@@ -246,6 +246,9 @@
 [submodule "nlmr"]
 	path = nlmr
 	url = https://github.com/jrs95/nlmr
+[submodule "prop.coloc"]
+	path = prop.coloc
+	url = https://github.com/ash-res/prop-coloc
 [submodule "simmrd"]
 	path = simmrd
 	url = https://github.com/noahlorinczcomi/simmrd
