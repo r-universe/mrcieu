@@ -18,6 +18,9 @@
 [submodule "CheckSumStats"]
 	path = CheckSumStats
 	url = https://github.com/MRCIEU/CheckSumStats
+[submodule "DRMR"]
+	path = DRMR
+	url = https://github.com/HDTian/DRMR
 [submodule "EpiViz"]
 	path = EpiViz
 	url = https://github.com/mattlee821/EpiViz
@@ -100,6 +103,9 @@
 [submodule "MendelianRandomization"]
 	path = MendelianRandomization
 	url = https://github.com/cran/MendelianRandomization
+[submodule "MrDAG"]
+	path = MrDAG
+	url = https://github.com/lb664/MrDAG
 [submodule "MrMediation"]
 	path = MrMediation
 	url = https://github.com/remlapmot/MrMediation
@@ -123,6 +129,9 @@
 [submodule "SlopeHunter"]
 	path = SlopeHunter
 	url = https://github.com/Osmahmoud/SlopeHunter
+[submodule "TVMR"]
+	path = TVMR
+	url = https://github.com/HDTian/TVMR
 [submodule "TwoSampleMR"]
 	path = TwoSampleMR
 	url = https://github.com/MRCIEU/TwoSampleMR
