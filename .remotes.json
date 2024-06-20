@@ -428,7 +428,7 @@
   {
     "package": "ieugwasr",
     "url": "https://github.com/mrcieu/ieugwasr",
-    "via": ["genepi.utils", "TwoSampleMR"],
+    "via": ["genepi.utils", "SlopeHunter"],
     "from": "genepi.utils"
   },
   {
