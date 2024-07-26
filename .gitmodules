@@ -61,9 +61,6 @@
 [submodule "MRBEE"]
 	path = MRBEE
 	url = https://github.com/noahlorinczcomi/MRBEE
-[submodule "MRCIP"]
-	path = MRCIP
-	url = https://github.com/siqixu/MRCIP
 [submodule "MRInstruments"]
 	path = MRInstruments
 	url = https://github.com/MRCIEU/MRInstruments
@@ -193,9 +190,6 @@
 [submodule "gwasvcf"]
 	path = gwasvcf
 	url = https://github.com/MRCIEU/gwasvcf
-[submodule "hyprcoloc"]
-	path = hyprcoloc
-	url = https://github.com/jrs95/hyprcoloc
 [submodule "iGasso"]
 	path = iGasso
 	url = https://github.com/cran/iGasso
