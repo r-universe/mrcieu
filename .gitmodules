@@ -140,8 +140,7 @@
 	url = https://github.com/MRCIEU/TwoSampleMR
 [submodule "alspac"]
 	path = alspac
-	url = https://github.com/remlapmot/alspac
-	branch = suggestions
+	url = https://github.com/explodecomputer/alspac
 [submodule "bpbounds"]
 	path = bpbounds
 	url = https://github.com/remlapmot/bpbounds
