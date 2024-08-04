@@ -207,6 +207,9 @@
 [submodule "journalclub"]
 	path = journalclub
 	url = https://github.com/perishky/journalclub
+[submodule "ldscr"]
+	path = ldscr
+	url = https://github.com/mglev1n/ldscr
 [submodule "lhcMR"]
 	path = lhcMR
 	url = https://github.com/LizaDarrous/lhcMR
@@ -226,9 +229,15 @@
 [submodule "mr.simss"]
 	path = mr.simss
 	url = https://github.com/amandaforde/mr.simss
+[submodule "mrSampleOverlap"]
+	path = mrSampleOverlap
+	url = https://github.com/mglev1n/mrSampleOverlap
 [submodule "mrbayes"]
 	path = mrbayes
 	url = https://github.com/okezie94/mrbayes
+[submodule "mrbma"]
+	path = mrbma
+	url = https://github.com/mglev1n/mrbma
 [submodule "mrclust"]
 	path = mrclust
 	url = https://github.com/cnfoley/mrclust
