@@ -290,6 +290,12 @@
   {
     "package": "SlopeHunter",
     "url": "https://github.com/Osmahmoud/SlopeHunter",
+    "via": ["ColliderBias"],
+    "from": "ColliderBias"
+  },
+  {
+    "package": "SlopeHunter",
+    "url": "https://github.com/Osmahmoud/SlopeHunter",
     "via": ["genepi.utils"],
     "from": "genepi.utils"
   },
@@ -430,6 +436,12 @@
     "url": "https://github.com/MRCIEU/ieugwasr",
     "via": ["CAMeRa"],
     "from": "CAMeRa"
+  },
+  {
+    "package": "ieugwasr",
+    "url": "https://github.com/mrcieu/ieugwasr",
+    "via": ["ColliderBias", "SlopeHunter"],
+    "from": "ColliderBias"
   },
   {
     "package": "ieugwasr",
