@@ -18,6 +18,10 @@
 [submodule "CheckSumStats"]
 	path = CheckSumStats
 	url = https://github.com/MRCIEU/CheckSumStats
+[submodule "ColliderBias"]
+	path = ColliderBias
+	url = https://github.com/SiyangCai/ColliderBias
+	subdir = ColliderBias
 [submodule "DRMR"]
 	path = DRMR
 	url = https://github.com/HDTian/DRMR
