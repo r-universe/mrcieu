@@ -208,9 +208,6 @@
 [submodule "journalclub"]
 	path = journalclub
 	url = https://github.com/perishky/journalclub
-[submodule "ldscr"]
-	path = ldscr
-	url = https://github.com/mglev1n/ldscr
 [submodule "lhcMR"]
 	path = lhcMR
 	url = https://github.com/LizaDarrous/lhcMR
