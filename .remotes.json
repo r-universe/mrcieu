@@ -482,12 +482,6 @@
   {
     "package": "ieugwasr",
     "url": "https://github.com/mrcieu/ieugwasr",
-    "via": ["RMVMR", "RadialMR", "TwoSampleMR"],
-    "from": "RMVMR"
-  },
-  {
-    "package": "ieugwasr",
-    "url": "https://github.com/mrcieu/ieugwasr",
     "via": ["SlopeHunter"],
     "from": "SlopeHunter"
   },
