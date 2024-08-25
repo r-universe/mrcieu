@@ -258,9 +258,6 @@
 [submodule "prop.coloc"]
 	path = prop.coloc
 	url = https://github.com/ash-res/prop-coloc
-[submodule "rstan"]
-	path = rstan
-	url = https://github.com/cran/rstan
 [submodule "simmrd"]
 	path = simmrd
 	url = https://github.com/noahlorinczcomi/simmrd
