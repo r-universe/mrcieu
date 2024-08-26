@@ -337,7 +337,7 @@
   },
   {
     "package": "TwoSampleMR",
-    "url": "https://github.com/mrcieu/twosamplemr",
+    "url": "https://github.com/MRCIEU/TwoSampleMR",
     "via": ["RadialMR"],
     "from": "RadialMR"
   },
