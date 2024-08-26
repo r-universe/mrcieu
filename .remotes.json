@@ -241,7 +241,7 @@
   },
   {
     "package": "MVMR",
-    "url": "https://github.com/wspiller/mvmr",
+    "url": "https://github.com/WSpiller/MVMR",
     "via": ["RMVMR"],
     "from": "RMVMR"
   },
@@ -259,7 +259,7 @@
   },
   {
     "package": "RadialMR",
-    "url": "https://github.com/wspiller/radialmr",
+    "url": "https://github.com/WSpiller/RadialMR",
     "via": ["RMVMR"],
     "from": "RMVMR"
   },
@@ -331,7 +331,7 @@
   },
   {
     "package": "TwoSampleMR",
-    "url": "https://github.com/mrcieu/twosamplemr",
+    "url": "https://github.com/MRCIEU/TwoSampleMR",
     "via": ["RMVMR", "RadialMR"],
     "from": "RMVMR"
   },
