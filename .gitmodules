@@ -282,6 +282,10 @@
 	path = proxysnps
 	url = https://github.com/slowkow/proxysnps
 	registered = false
+[submodule "robvis"]
+	path = robvis
+	url = https://github.com/mcguinlu/robvis
+	registered = false
 [submodule "rsnps"]
 	path = rsnps
 	url = https://github.com/ropensci/rsnps
