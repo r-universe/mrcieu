@@ -343,12 +343,6 @@
   },
   {
     "package": "TwoSampleMR",
-    "url": "https://github.com/mrcieu/twosamplemr",
-    "via": ["TwoSampleMR", "RadialMR"],
-    "from": "TwoSampleMR"
-  },
-  {
-    "package": "TwoSampleMR",
     "url": "https://github.com/mrcieu/TwoSampleMR",
     "via": ["genepi.utils"],
     "from": "genepi.utils"
