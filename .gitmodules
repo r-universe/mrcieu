@@ -190,6 +190,9 @@
 [submodule "gwasvcf"]
 	path = gwasvcf
 	url = https://github.com/MRCIEU/gwasvcf
+[submodule "hdi"]
+	path = hdi
+	url = https://github.com/cran/hdi
 [submodule "iGasso"]
 	path = iGasso
 	url = https://github.com/cran/iGasso
@@ -258,6 +261,9 @@
 [submodule "prop.coloc"]
 	path = prop.coloc
 	url = https://github.com/ash-res/prop-coloc
+[submodule "screening"]
+	path = screening
+	url = https://github.com/wwrechard/screening
 [submodule "simmrd"]
 	path = simmrd
 	url = https://github.com/noahlorinczcomi/simmrd
