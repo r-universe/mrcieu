@@ -111,8 +111,7 @@
 	url = https://github.com/lb664/MrDAG
 [submodule "MrMediation"]
 	path = MrMediation
-	url = https://github.com/remlapmot/MrMediation
-	branch = suggestions
+	url = https://github.com/ZixuanWu1/MrMediation
 [submodule "OneSampleMR"]
 	path = OneSampleMR
 	url = https://github.com/remlapmot/OneSampleMR
