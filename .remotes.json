@@ -20,6 +20,12 @@
   {
     "package": "MRInstruments",
     "url": "https://github.com/mrcieu/MRInstruments",
+    "via": ["MRCorge", "TwoSampleMR"],
+    "from": "MRCorge"
+  },
+  {
+    "package": "MRInstruments",
+    "url": "https://github.com/mrcieu/MRInstruments",
     "via": ["RMVMR", "RadialMR", "TwoSampleMR"],
     "from": "RMVMR"
   },
@@ -104,6 +110,12 @@
   {
     "package": "MRMix",
     "url": "https://github.com/gqi/MRMix",
+    "via": ["MRCorge", "TwoSampleMR"],
+    "from": "MRCorge"
+  },
+  {
+    "package": "MRMix",
+    "url": "https://github.com/gqi/MRMix",
     "via": ["RMVMR", "RadialMR", "TwoSampleMR"],
     "from": "RMVMR"
   },
@@ -184,6 +196,12 @@
     "url": "https://github.com/rondolab/MR-PRESSO",
     "via": ["GwasDataImport", "gwasvcf", "gwasglue2", "TwoSampleMR"],
     "from": "GwasDataImport"
+  },
+  {
+    "package": "MRPRESSO",
+    "url": "https://github.com/rondolab/MR-PRESSO",
+    "via": ["MRCorge", "TwoSampleMR"],
+    "from": "MRCorge"
   },
   {
     "package": "MRPRESSO",
@@ -278,6 +296,12 @@
   {
     "package": "RadialMR",
     "url": "https://github.com/WSpiller/RadialMR",
+    "via": ["MRCorge", "TwoSampleMR"],
+    "from": "MRCorge"
+  },
+  {
+    "package": "RadialMR",
+    "url": "https://github.com/WSpiller/RadialMR",
     "via": ["RMVMR"],
     "from": "RMVMR"
   },
@@ -352,6 +376,12 @@
     "url": "https://github.com/mrcieu/TwoSampleMR",
     "via": ["GwasDataImport", "gwasvcf", "gwasglue2"],
     "from": "GwasDataImport"
+  },
+  {
+    "package": "TwoSampleMR",
+    "url": "https://github.com/MRCIEU/TwoSampleMR",
+    "via": ["MRCorge"],
+    "from": "MRCorge"
   },
   {
     "package": "TwoSampleMR",
