@@ -494,7 +494,7 @@
   {
     "package": "ieugwasr",
     "url": "https://github.com/mrcieu/ieugwasr",
-    "via": ["GwasDataImport", "gwasvcf", "gwasglue2", "TwoSampleMR"],
+    "via": ["GwasDataImport"],
     "from": "GwasDataImport"
   },
   {
