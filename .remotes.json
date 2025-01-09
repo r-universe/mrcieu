@@ -6,6 +6,12 @@
     "from": "GwasDataImport"
   },
   {
+    "package": "GenomicSEM",
+    "url": "https://github.com/GenomicSEM/GenomicSEM",
+    "via": ["MRlap"],
+    "from": "MRlap"
+  },
+  {
     "package": "MRInstruments",
     "url": "https://github.com/mrcieu/MRInstruments",
     "via": ["CAMeRa", "TwoSampleMR"],
@@ -22,6 +28,12 @@
     "url": "https://github.com/mrcieu/MRInstruments",
     "via": ["MRCorge", "TwoSampleMR"],
     "from": "MRCorge"
+  },
+  {
+    "package": "MRInstruments",
+    "url": "https://github.com/mrcieu/MRInstruments",
+    "via": ["MRlap", "TwoSampleMR"],
+    "from": "MRlap"
   },
   {
     "package": "MRInstruments",
@@ -98,6 +110,12 @@
   {
     "package": "MRMix",
     "url": "https://github.com/gqi/MRMix",
+    "via": ["MRlap", "TwoSampleMR"],
+    "from": "MRlap"
+  },
+  {
+    "package": "MRMix",
+    "url": "https://github.com/gqi/MRMix",
     "via": ["RMVMR", "RadialMR", "TwoSampleMR"],
     "from": "RMVMR"
   },
@@ -166,6 +184,12 @@
     "url": "https://github.com/rondolab/MR-PRESSO",
     "via": ["MRCorge", "TwoSampleMR"],
     "from": "MRCorge"
+  },
+  {
+    "package": "MRPRESSO",
+    "url": "https://github.com/rondolab/MR-PRESSO",
+    "via": ["MRlap", "TwoSampleMR"],
+    "from": "MRlap"
   },
   {
     "package": "MRPRESSO",
@@ -248,6 +272,12 @@
   {
     "package": "RadialMR",
     "url": "https://github.com/WSpiller/RadialMR",
+    "via": ["MRlap", "TwoSampleMR"],
+    "from": "MRlap"
+  },
+  {
+    "package": "RadialMR",
+    "url": "https://github.com/WSpiller/RadialMR",
     "via": ["RMVMR"],
     "from": "RMVMR"
   },
@@ -322,6 +352,12 @@
     "url": "https://github.com/MRCIEU/TwoSampleMR",
     "via": ["MRCorge"],
     "from": "MRCorge"
+  },
+  {
+    "package": "TwoSampleMR",
+    "url": "https://github.com/MRCIEU/TwoSampleMR",
+    "via": ["MRlap"],
+    "from": "MRlap"
   },
   {
     "package": "TwoSampleMR",
@@ -507,6 +543,12 @@
   {
     "package": "mr.raps",
     "url": "https://github.com/qingyuanzhao/mr.raps",
+    "via": ["MRlap", "TwoSampleMR"],
+    "from": "MRlap"
+  },
+  {
+    "package": "mr.raps",
+    "url": "https://github.com/qingyuanzhao/mr.raps",
     "via": ["RMVMR", "RadialMR", "TwoSampleMR"],
     "from": "RMVMR"
   },
@@ -563,6 +605,12 @@
     "url": "https://github.com/ropensci/rsnps",
     "via": ["CAMeRa", "TwoSampleMR", "mr.raps"],
     "from": "CAMeRa"
+  },
+  {
+    "package": "rsnps",
+    "url": "https://github.com/ropensci/rsnps",
+    "via": ["MRlap", "TwoSampleMR", "mr.raps"],
+    "from": "MRlap"
   },
   {
     "package": "rsnps",
