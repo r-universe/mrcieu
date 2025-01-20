@@ -28,6 +28,9 @@
 	path = EpiViz
 	url = https://github.com/mattlee821/EpiViz
 	subdir = R_package
+[submodule "FLOWMR"]
+	path = FLOWMR
+	url = https://github.com/ZixuanWu1/FLOW-MR
 [submodule "GRAPPLE"]
 	path = GRAPPLE
 	url = https://github.com/jingshuw/GRAPPLE
@@ -64,6 +67,9 @@
 [submodule "MRBEE"]
 	path = MRBEE
 	url = https://github.com/noahlorinczcomi/MRBEE
+[submodule "MRCorge"]
+	path = MRCorge
+	url = https://github.com/zhwm/MRCorge
 [submodule "MRInstruments"]
 	path = MRInstruments
 	url = https://github.com/MRCIEU/MRInstruments
@@ -109,9 +115,6 @@
 [submodule "MrDAG"]
 	path = MrDAG
 	url = https://github.com/lb664/MrDAG
-[submodule "MrMediation"]
-	path = MrMediation
-	url = https://github.com/ZixuanWu1/MrMediation
 [submodule "OneSampleMR"]
 	path = OneSampleMR
 	url = https://github.com/remlapmot/OneSampleMR
