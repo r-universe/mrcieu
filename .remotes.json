@@ -600,6 +600,12 @@
     "from": "TwoSampleMR"
   },
   {
+    "package": "rsnps",
+    "url": "https://github.com/ropensci/rsnps",
+    "via": ["mr.raps"],
+    "from": "mr.raps"
+  },
+  {
     "package": "susieR",
     "url": "https://github.com/stephenslab/susieR",
     "via": ["gwasglue"],
