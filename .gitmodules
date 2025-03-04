@@ -231,7 +231,8 @@
 	url = https://github.com/siqixu/mr.pivw
 [submodule "mr.raps"]
 	path = mr.raps
-	url = https://github.com/qingyuanzhao/mr.raps
+	url = https://github.com/remlapmot/mr.raps
+	branch = suggestions
 [submodule "mr.simss"]
 	path = mr.simss
 	url = https://github.com/amandaforde/mr.simss
