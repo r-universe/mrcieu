@@ -596,7 +596,7 @@
   {
     "package": "rsnps",
     "url": "https://github.com/ropensci/rsnps",
-    "via": ["TwoSampleMR"],
+    "via": ["TwoSampleMR", "mr.raps"],
     "from": "TwoSampleMR"
   },
   {
