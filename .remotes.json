@@ -590,8 +590,20 @@
   {
     "package": "mr.raps",
     "url": "https://github.com/qingyuanzhao/mr.raps",
+    "via": ["RadialMR", "TwoSampleMR"],
+    "from": "RadialMR"
+  },
+  {
+    "package": "mr.raps",
+    "url": "https://github.com/qingyuanzhao/mr.raps",
     "via": ["TwoSampleMR"],
     "from": "TwoSampleMR"
+  },
+  {
+    "package": "rsnps",
+    "url": "https://github.com/ropensci/rsnps",
+    "via": ["RadialMR", "TwoSampleMR", "mr.raps"],
+    "from": "RadialMR"
   },
   {
     "package": "rsnps",
