@@ -590,6 +590,12 @@
   {
     "package": "mr.raps",
     "url": "https://github.com/qingyuanzhao/mr.raps",
+    "via": ["RMVMR", "RadialMR", "TwoSampleMR"],
+    "from": "RMVMR"
+  },
+  {
+    "package": "mr.raps",
+    "url": "https://github.com/qingyuanzhao/mr.raps",
     "via": ["RadialMR", "TwoSampleMR"],
     "from": "RadialMR"
   },
@@ -598,6 +604,12 @@
     "url": "https://github.com/qingyuanzhao/mr.raps",
     "via": ["TwoSampleMR"],
     "from": "TwoSampleMR"
+  },
+  {
+    "package": "rsnps",
+    "url": "https://github.com/ropensci/rsnps",
+    "via": ["RMVMR", "RadialMR", "TwoSampleMR", "mr.raps"],
+    "from": "RMVMR"
   },
   {
     "package": "rsnps",
