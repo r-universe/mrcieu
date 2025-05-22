@@ -173,6 +173,9 @@
 [submodule "geni.plots"]
 	path = geni.plots
 	url = https://github.com/jrs95/geni.plots
+[submodule "gpmapr"]
+	path = gpmapr
+	url = https://github.com/MRCIEU/gpmapr
 [submodule "gsmr"]
 	path = gsmr
 	url = https://github.com/jianyanglab/gsmr
