@@ -576,12 +576,6 @@
     "from": "gwasglue2"
   },
   {
-    "package": "ieugwasr",
-    "url": "https://github.com/mrcieu/ieugwasr",
-    "via": ["gwasvcf", "gwasglue2", "TwoSampleMR"],
-    "from": "gwasvcf"
-  },
-  {
     "package": "indexevent",
     "url": "https://github.com/DudbridgeLab/indexevent",
     "via": ["genepi.utils"],
@@ -606,6 +600,12 @@
     "from": "TwoSampleMR"
   },
   {
+    "package": "mr.raps",
+    "url": "https://github.com/qingyuanzhao/mr.raps",
+    "via": ["gwasvcf", "gwasglue2", "TwoSampleMR"],
+    "from": "gwasvcf"
+  },
+  {
     "package": "rsnps",
     "url": "https://github.com/ropensci/rsnps",
     "via": ["RMVMR", "RadialMR", "TwoSampleMR", "mr.raps"],
@@ -622,6 +622,12 @@
     "url": "https://github.com/ropensci/rsnps",
     "via": ["TwoSampleMR", "mr.raps"],
     "from": "TwoSampleMR"
+  },
+  {
+    "package": "rsnps",
+    "url": "https://github.com/ropensci/rsnps",
+    "via": ["gwasvcf", "gwasglue2", "TwoSampleMR", "mr.raps"],
+    "from": "gwasvcf"
   },
   {
     "package": "rsnps",
