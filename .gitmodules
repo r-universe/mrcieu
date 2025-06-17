@@ -163,7 +163,7 @@
 [submodule "finemapr"]
 	path = finemapr
 	url = https://github.com/remlapmot/finemapr
-	branch = suggestions
+	branch = suggestions-2
 [submodule "genepi.utils"]
 	path = genepi.utils
 	url = https://github.com/nicksunderland/genepi.utils
