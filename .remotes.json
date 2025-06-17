@@ -606,6 +606,12 @@
     "from": "gwasvcf"
   },
   {
+    "package": "proxysnps",
+    "url": "https://github.com/slowkow/proxysnps",
+    "via": ["finemapr"],
+    "from": "finemapr"
+  },
+  {
     "package": "rsnps",
     "url": "https://github.com/ropensci/rsnps",
     "via": ["RMVMR", "RadialMR", "TwoSampleMR", "mr.raps"],

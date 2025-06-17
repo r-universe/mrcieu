@@ -269,6 +269,10 @@
 [submodule "prop.coloc"]
 	path = prop.coloc
 	url = https://github.com/ash-res/prop-coloc
+[submodule "proxysnps"]
+	path = proxysnps
+	url = https://github.com/slowkow/proxysnps
+	registered = false
 [submodule "rsnps"]
 	path = rsnps
 	url = https://github.com/ropensci/rsnps
