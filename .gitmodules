@@ -142,6 +142,11 @@
 [submodule "TwoSampleMR"]
 	path = TwoSampleMR
 	url = https://github.com/MRCIEU/TwoSampleMR
+[submodule "aciccomp2016"]
+	path = aciccomp2016
+	url = https://github.com/vdorie/aciccomp
+	subdir = 2016
+	registered = false
 [submodule "alspac"]
 	path = alspac
 	url = https://github.com/explodecomputer/alspac

@@ -444,6 +444,13 @@
     "from": "mrbma"
   },
   {
+    "package": "aciccomp2016",
+    "url": "https://github.com/vdorie/aciccomp",
+    "via": ["causl"],
+    "subdir": "2016",
+    "from": "causl"
+  },
+  {
     "package": "finemapr",
     "url": "https://github.com/variani/finemapr",
     "via": ["gwasglue"],
