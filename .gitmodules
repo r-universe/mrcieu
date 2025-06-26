@@ -271,6 +271,10 @@
 [submodule "nlmr"]
 	path = nlmr
 	url = https://github.com/jrs95/nlmr
+[submodule "pcaMethods"]
+	path = pcaMethods
+	url = https://github.com/hredestig/pcaMethods
+	registered = false
 [submodule "prop.coloc"]
 	path = prop.coloc
 	url = https://github.com/ash-res/prop-coloc

@@ -619,6 +619,12 @@
     "from": "gwasvcf"
   },
   {
+    "package": "pcaMethods",
+    "url": "https://github.com/hredestig/pcaMethods",
+    "via": ["metaboprep"],
+    "from": "metaboprep"
+  },
+  {
     "package": "proxysnps",
     "url": "https://github.com/slowkow/proxysnps",
     "via": ["finemapr"],
