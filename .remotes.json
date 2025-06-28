@@ -609,6 +609,12 @@
   {
     "package": "mr.raps",
     "url": "https://github.com/qingyuanzhao/mr.raps",
+    "via": ["genepi.utils", "TwoSampleMR"],
+    "from": "genepi.utils"
+  },
+  {
+    "package": "mr.raps",
+    "url": "https://github.com/qingyuanzhao/mr.raps",
     "via": ["gwasvcf", "gwasglue2", "TwoSampleMR"],
     "from": "gwasvcf"
   },
@@ -635,6 +641,12 @@
     "url": "https://github.com/ropensci/rsnps",
     "via": ["TwoSampleMR", "mr.raps"],
     "from": "TwoSampleMR"
+  },
+  {
+    "package": "rsnps",
+    "url": "https://github.com/ropensci/rsnps",
+    "via": ["genepi.utils", "TwoSampleMR", "mr.raps"],
+    "from": "genepi.utils"
   },
   {
     "package": "rsnps",
