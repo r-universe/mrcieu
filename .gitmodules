@@ -229,8 +229,8 @@
 	url = https://github.com/jrs95/lmrse
 [submodule "metaboprep"]
 	path = metaboprep
-	url = https://github.com/remlapmot/metaboprep
-	branch = suggestions
+	url = https://github.com/MRCIEU/metaboprep
+	branch = v2_development
 [submodule "midoc"]
 	path = midoc
 	url = https://github.com/elliecurnow/midoc
