@@ -301,6 +301,9 @@
 [submodule "tmsens"]
 	path = tmsens
 	url = https://github.com/dea-hazewinkel/tmsens
+[submodule "triangulate"]
+	path = triangulate
+	url = https://github.com/mcguinlu/triangulate
 [submodule "tryx"]
 	path = tryx
 	url = https://github.com/explodecomputer/tryx
