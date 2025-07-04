@@ -284,8 +284,8 @@
 	registered = false
 [submodule "robvis"]
 	path = robvis
-	url = https://github.com/mcguinlu/robvis
-	registered = false
+	url = https://github.com/remlapmot/robvis
+	branch = suggestions
 [submodule "rsnps"]
 	path = rsnps
 	url = https://github.com/ropensci/rsnps
