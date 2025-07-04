@@ -679,6 +679,12 @@
     "from": "gwasglue"
   },
   {
+    "package": "triangulate",
+    "url": "https://github.com/mcguinlu/triangulate",
+    "via": ["robvis"],
+    "from": "robvis"
+  },
+  {
     "package": "winnerscurse",
     "url": "https://github.com/amandaforde/winnerscurse",
     "via": ["CAMeRa"],
