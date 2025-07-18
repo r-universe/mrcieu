@@ -212,6 +212,7 @@
 [submodule "indexevent"]
 	path = indexevent
 	url = https://github.com/DudbridgeLab/indexevent
+	registered = false
 [submodule "ivmodel"]
 	path = ivmodel
 	url = https://github.com/hyunseungkang/ivmodel
