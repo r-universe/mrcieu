@@ -591,6 +591,12 @@
   {
     "package": "mr.raps",
     "url": "https://github.com/qingyuanzhao/mr.raps",
+    "via": ["CAMeRa", "TwoSampleMR"],
+    "from": "CAMeRa"
+  },
+  {
+    "package": "mr.raps",
+    "url": "https://github.com/qingyuanzhao/mr.raps",
     "via": ["RMVMR", "RadialMR", "TwoSampleMR"],
     "from": "RMVMR"
   },
@@ -635,6 +641,12 @@
     "url": "https://github.com/mcguinlu/robvis",
     "via": ["triangulate"],
     "from": "triangulate"
+  },
+  {
+    "package": "rsnps",
+    "url": "https://github.com/ropensci/rsnps",
+    "via": ["CAMeRa", "TwoSampleMR", "mr.raps"],
+    "from": "CAMeRa"
   },
   {
     "package": "rsnps",
