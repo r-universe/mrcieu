@@ -109,6 +109,9 @@
 [submodule "MVMRcML"]
 	path = MVMRcML
 	url = https://github.com/ZhaotongL/MVMR-cML
+[submodule "MVMRcMLSuSiE"]
+	path = MVMRcMLSuSiE
+	url = https://github.com/lapsumchan/MVMR-cML-SuSiE
 [submodule "MendelianRandomization"]
 	path = MendelianRandomization
 	url = https://github.com/cran/MendelianRandomization
