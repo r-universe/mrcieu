@@ -192,7 +192,8 @@
 	url = https://github.com/jianyanglab/gsmr2
 [submodule "gwasglue"]
 	path = gwasglue
-	url = https://github.com/MRCIEU/gwasglue
+	url = https://github.com/remlapmot/gwasglue
+	branch = fixes
 [submodule "gwasglue2"]
 	path = gwasglue2
 	url = https://github.com/MRCIEU/gwasglue2
