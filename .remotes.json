@@ -50,25 +50,7 @@
   {
     "package": "MRInstruments",
     "url": "https://github.com/mrcieu/MRInstruments",
-    "via": ["gwasglue", "TwoSampleMR"],
-    "from": "gwasglue"
-  },
-  {
-    "package": "MRInstruments",
-    "url": "https://github.com/mrcieu/MRInstruments",
-    "via": ["gwasglue", "TwoSampleMR", "RadialMR", "TwoSampleMR"],
-    "from": "gwasglue"
-  },
-  {
-    "package": "MRInstruments",
-    "url": "https://github.com/mrcieu/MRInstruments",
-    "via": ["gwasglue"],
-    "from": "gwasglue"
-  },
-  {
-    "package": "MRInstruments",
-    "url": "https://github.com/mrcieu/MRInstruments",
-    "via": ["gwasglue", "RadialMR", "TwoSampleMR"],
+    "via": ["gwasglue", "gwasvcf", "gwasglue2", "TwoSampleMR"],
     "from": "gwasglue"
   },
   {
@@ -140,25 +122,7 @@
   {
     "package": "MRMix",
     "url": "https://github.com/gqi/MRMix",
-    "via": ["gwasglue", "TwoSampleMR"],
-    "from": "gwasglue"
-  },
-  {
-    "package": "MRMix",
-    "url": "https://github.com/gqi/MRMix",
-    "via": ["gwasglue", "TwoSampleMR", "RadialMR", "TwoSampleMR"],
-    "from": "gwasglue"
-  },
-  {
-    "package": "MRMix",
-    "url": "https://github.com/gqi/MRMix",
-    "via": ["gwasglue", "RadialMR", "TwoSampleMR"],
-    "from": "gwasglue"
-  },
-  {
-    "package": "MRMix",
-    "url": "https://github.com/gqi/MRMix",
-    "via": ["gwasglue"],
+    "via": ["gwasglue", "gwasvcf", "gwasglue2", "TwoSampleMR"],
     "from": "gwasglue"
   },
   {
@@ -230,25 +194,7 @@
   {
     "package": "MRPRESSO",
     "url": "https://github.com/rondolab/MR-PRESSO",
-    "via": ["gwasglue"],
-    "from": "gwasglue"
-  },
-  {
-    "package": "MRPRESSO",
-    "url": "https://github.com/rondolab/MR-PRESSO",
-    "via": ["gwasglue", "TwoSampleMR"],
-    "from": "gwasglue"
-  },
-  {
-    "package": "MRPRESSO",
-    "url": "https://github.com/rondolab/MR-PRESSO",
-    "via": ["gwasglue", "TwoSampleMR", "RadialMR", "TwoSampleMR"],
-    "from": "gwasglue"
-  },
-  {
-    "package": "MRPRESSO",
-    "url": "https://github.com/rondolab/MR-PRESSO",
-    "via": ["gwasglue", "RadialMR", "TwoSampleMR"],
+    "via": ["gwasglue", "gwasvcf", "gwasglue2", "TwoSampleMR"],
     "from": "gwasglue"
   },
   {
@@ -320,13 +266,7 @@
   {
     "package": "RadialMR",
     "url": "https://github.com/WSpiller/RadialMR",
-    "via": ["gwasglue", "TwoSampleMR"],
-    "from": "gwasglue"
-  },
-  {
-    "package": "RadialMR",
-    "url": "https://github.com/WSpiller/RadialMR",
-    "via": ["gwasglue"],
+    "via": ["gwasglue", "gwasvcf", "gwasglue2", "TwoSampleMR"],
     "from": "gwasglue"
   },
   {
@@ -404,19 +344,7 @@
   {
     "package": "TwoSampleMR",
     "url": "https://github.com/mrcieu/TwoSampleMR",
-    "via": ["gwasglue"],
-    "from": "gwasglue"
-  },
-  {
-    "package": "TwoSampleMR",
-    "url": "https://github.com/mrcieu/twosamplemr",
-    "via": ["gwasglue", "TwoSampleMR", "RadialMR"],
-    "from": "gwasglue"
-  },
-  {
-    "package": "TwoSampleMR",
-    "url": "https://github.com/mrcieu/twosamplemr",
-    "via": ["gwasglue", "RadialMR"],
+    "via": ["gwasglue", "gwasvcf", "gwasglue2"],
     "from": "gwasglue"
   },
   {
@@ -470,8 +398,8 @@
   },
   {
     "package": "genetics.binaRies",
-    "url": "https://github.com/mrcieu/genetics.binaRies",
-    "via": ["gwasglue", "gwasvcf"],
+    "url": "https://github.com/MRCIEU/genetics.binaRies",
+    "via": ["gwasglue"],
     "from": "gwasglue"
   },
   {
@@ -485,6 +413,12 @@
     "url": "https://github.com/mrcieu/gwasglue2",
     "via": ["GwasDataImport", "gwasvcf"],
     "from": "GwasDataImport"
+  },
+  {
+    "package": "gwasglue2",
+    "url": "https://github.com/mrcieu/gwasglue2",
+    "via": ["gwasglue", "gwasvcf"],
+    "from": "gwasglue"
   },
   {
     "package": "gwasglue2",
@@ -555,30 +489,6 @@
   {
     "package": "ieugwasr",
     "url": "https://github.com/mrcieu/ieugwasr",
-    "via": ["gwasglue"],
-    "from": "gwasglue"
-  },
-  {
-    "package": "ieugwasr",
-    "url": "https://github.com/mrcieu/ieugwasr",
-    "via": ["gwasglue", "TwoSampleMR"],
-    "from": "gwasglue"
-  },
-  {
-    "package": "ieugwasr",
-    "url": "https://github.com/mrcieu/ieugwasr",
-    "via": ["gwasglue", "TwoSampleMR", "RadialMR", "TwoSampleMR"],
-    "from": "gwasglue"
-  },
-  {
-    "package": "ieugwasr",
-    "url": "https://github.com/mrcieu/ieugwasr",
-    "via": ["gwasglue", "RadialMR", "TwoSampleMR"],
-    "from": "gwasglue"
-  },
-  {
-    "package": "ieugwasr",
-    "url": "https://github.com/mrcieu/ieugwasr",
     "via": ["gwasglue2", "TwoSampleMR"],
     "from": "gwasglue2"
   },
@@ -617,6 +527,12 @@
     "url": "https://github.com/qingyuanzhao/mr.raps",
     "via": ["genepi.utils", "TwoSampleMR"],
     "from": "genepi.utils"
+  },
+  {
+    "package": "mr.raps",
+    "url": "https://github.com/qingyuanzhao/mr.raps",
+    "via": ["gwasglue", "gwasvcf", "gwasglue2", "TwoSampleMR"],
+    "from": "gwasglue"
   },
   {
     "package": "mr.raps",
@@ -671,6 +587,12 @@
     "url": "https://github.com/ropensci/rsnps",
     "via": ["genepi.utils", "TwoSampleMR", "mr.raps"],
     "from": "genepi.utils"
+  },
+  {
+    "package": "rsnps",
+    "url": "https://github.com/ropensci/rsnps",
+    "via": ["gwasglue", "gwasvcf", "gwasglue2", "TwoSampleMR", "mr.raps"],
+    "from": "gwasglue"
   },
   {
     "package": "rsnps",
