@@ -174,7 +174,8 @@
 	branch = suggestions-2
 [submodule "gassocplot"]
 	path = gassocplot
-	url = https://github.com/jrs95/gassocplot
+	url = https://github.com/remlapmot/gassocplot
+	branch = suggestions
 [submodule "gassocplot2"]
 	path = gassocplot2
 	url = https://github.com/remlapmot/gassocplot2
