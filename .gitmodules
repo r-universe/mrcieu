@@ -177,7 +177,8 @@
 	url = https://github.com/jrs95/gassocplot
 [submodule "gassocplot2"]
 	path = gassocplot2
-	url = https://github.com/jrs95/gassocplot2
+	url = https://github.com/remlapmot/gassocplot2
+	branch = fixes
 [submodule "genepi.utils"]
 	path = genepi.utils
 	url = https://github.com/nicksunderland/genepi.utils
