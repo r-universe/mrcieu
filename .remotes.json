@@ -607,12 +607,6 @@
     "from": "mr.raps"
   },
   {
-    "package": "susieR",
-    "url": "https://github.com/stephenslab/susieR",
-    "via": ["gwasglue"],
-    "from": "gwasglue"
-  },
-  {
     "package": "winnerscurse",
     "url": "https://github.com/amandaforde/winnerscurse",
     "via": ["CAMeRa"],
