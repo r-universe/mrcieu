@@ -541,6 +541,12 @@
     "from": "gwasvcf"
   },
   {
+    "package": "mr.raps",
+    "url": "https://github.com/qingyuanzhao/mr.raps",
+    "via": ["mr.simss", "TwoSampleMR"],
+    "from": "mr.simss"
+  },
+  {
     "package": "pcaMethods",
     "url": "https://github.com/hredestig/pcaMethods",
     "via": ["metaboprep"],
@@ -605,6 +611,12 @@
     "url": "https://github.com/ropensci/rsnps",
     "via": ["mr.raps"],
     "from": "mr.raps"
+  },
+  {
+    "package": "rsnps",
+    "url": "https://github.com/ropensci/rsnps",
+    "via": ["mr.simss", "TwoSampleMR", "mr.raps"],
+    "from": "mr.simss"
   },
   {
     "package": "winnerscurse",
