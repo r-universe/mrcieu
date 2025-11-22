@@ -278,6 +278,9 @@
 [submodule "mrlocus"]
 	path = mrlocus
 	url = https://github.com/thelovelab/mrlocus
+[submodule "mrpipeline"]
+	path = mrpipeline
+	url = https://github.com/jwr-git/mrpipeline
 [submodule "mrsensemakr"]
 	path = mrsensemakr
 	url = https://github.com/carloscinelli/mrsensemakr
