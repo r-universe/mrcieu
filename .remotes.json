@@ -585,6 +585,12 @@
   {
     "package": "mr.raps",
     "url": "https://github.com/qingyuanzhao/mr.raps",
+    "via": ["GwasDataImport", "gwasvcf", "gwasglue2", "TwoSampleMR"],
+    "from": "GwasDataImport"
+  },
+  {
+    "package": "mr.raps",
+    "url": "https://github.com/qingyuanzhao/mr.raps",
     "via": ["RMVMR", "RadialMR", "TwoSampleMR"],
     "from": "RMVMR"
   },
@@ -653,6 +659,12 @@
     "url": "https://github.com/ropensci/rsnps",
     "via": ["CAMeRa", "TwoSampleMR", "mr.raps"],
     "from": "CAMeRa"
+  },
+  {
+    "package": "rsnps",
+    "url": "https://github.com/ropensci/rsnps",
+    "via": ["GwasDataImport", "gwasvcf", "gwasglue2", "TwoSampleMR", "mr.raps"],
+    "from": "GwasDataImport"
   },
   {
     "package": "rsnps",
