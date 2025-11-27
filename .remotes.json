@@ -649,12 +649,6 @@
     "from": "finemapr"
   },
   {
-    "package": "robvis",
-    "url": "https://github.com/mcguinlu/robvis",
-    "via": ["triangulate"],
-    "from": "triangulate"
-  },
-  {
     "package": "rsnps",
     "url": "https://github.com/ropensci/rsnps",
     "via": ["CAMeRa", "TwoSampleMR", "mr.raps"],
