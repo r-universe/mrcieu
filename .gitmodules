@@ -145,11 +145,6 @@
 [submodule "TwoSampleMR"]
 	path = TwoSampleMR
 	url = https://github.com/MRCIEU/TwoSampleMR
-[submodule "aciccomp2016"]
-	path = aciccomp2016
-	url = https://github.com/vdorie/aciccomp
-	subdir = 2016
-	registered = false
 [submodule "alspac"]
 	path = alspac
 	url = https://github.com/explodecomputer/alspac
@@ -205,10 +200,6 @@
 [submodule "gwasglue2"]
 	path = gwasglue2
 	url = https://github.com/MRCIEU/gwasglue2
-[submodule "gwasrapidd"]
-	path = gwasrapidd
-	url = https://github.com/ramiromagno/gwasrapidd
-	registered = false
 [submodule "gwasvcf"]
 	path = gwasvcf
 	url = https://github.com/MRCIEU/gwasvcf
@@ -221,10 +212,6 @@
 [submodule "ieugwasr"]
 	path = ieugwasr
 	url = https://github.com/MRCIEU/ieugwasr
-[submodule "indexevent"]
-	path = indexevent
-	url = https://github.com/DudbridgeLab/indexevent
-	registered = false
 [submodule "ivmodel"]
 	path = ivmodel
 	url = https://github.com/hyunseungkang/ivmodel
@@ -250,10 +237,6 @@
 [submodule "midoc"]
 	path = midoc
 	url = https://github.com/elliecurnow/midoc
-[submodule "mr.ash.alpha"]
-	path = mr.ash.alpha
-	url = https://github.com/stephenslab/mr.ash.alpha
-	registered = false
 [submodule "mr.pivw"]
 	path = mr.pivw
 	url = https://github.com/siqixu/mr.pivw
@@ -294,17 +277,9 @@
 [submodule "nlmr"]
 	path = nlmr
 	url = https://github.com/jrs95/nlmr
-[submodule "pcaMethods"]
-	path = pcaMethods
-	url = https://github.com/hredestig/pcaMethods
-	registered = false
 [submodule "prop.coloc"]
 	path = prop.coloc
 	url = https://github.com/ash-res/prop-coloc
-[submodule "proxysnps"]
-	path = proxysnps
-	url = https://github.com/slowkow/proxysnps
-	registered = false
 [submodule "robvis"]
 	path = robvis
 	url = https://github.com/remlapmot/robvis
@@ -321,10 +296,6 @@
 [submodule "sisVIVE"]
 	path = sisVIVE
 	url = https://github.com/cran/sisVIVE
-[submodule "susieR"]
-	path = susieR
-	url = https://github.com/stephenslab/susieR
-	registered = false
 [submodule "tmsens"]
 	path = tmsens
 	url = https://github.com/dea-hazewinkel/tmsens
