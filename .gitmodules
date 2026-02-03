@@ -27,7 +27,6 @@
 [submodule "EpiViz"]
 	path = EpiViz
 	url = https://github.com/mattlee821/EpiViz
-	subdir = R_package
 [submodule "FLOWMR"]
 	path = FLOWMR
 	url = https://github.com/ZixuanWu1/FLOW-MR
