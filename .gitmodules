@@ -240,6 +240,10 @@
 	path = mr.divw
 	url = https://github.com/remlapmot/mr.divw
 	branch = suggestions
+[submodule "mr.genius"]
+	path = mr.genius
+	url = https://github.com/remlapmot/mr.genius
+	branch = suggestions
 [submodule "mr.pivw"]
 	path = mr.pivw
 	url = https://github.com/siqixu/mr.pivw
