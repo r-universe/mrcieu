@@ -238,7 +238,8 @@
 	url = https://github.com/elliecurnow/midoc
 [submodule "mr.divw"]
 	path = mr.divw
-	url = https://github.com/tye27/mr.divw
+	url = https://github.com/remlapmot/mr.divw
+	branch = suggestions
 [submodule "mr.pivw"]
 	path = mr.pivw
 	url = https://github.com/siqixu/mr.pivw
