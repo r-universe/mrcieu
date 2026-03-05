@@ -92,7 +92,8 @@
 	url = https://github.com/rondolab/MR-PRESSO
 [submodule "MRTool"]
 	path = MRTool
-	url = https://github.com/askieslinger/MRTool
+	url = https://github.com/remlapmot/MRTool
+	branch = suggestions
 [submodule "MRZero"]
 	path = MRZero
 	url = https://github.com/cran/MRZero
@@ -125,7 +126,8 @@
 	url = https://github.com/umich-biostatistics/PPMR
 [submodule "RFQT"]
 	path = RFQT
-	url = https://github.com/HDTian/RFQT
+	url = https://github.com/remlapmot/RFQT
+	branch = suggestions
 [submodule "RMVMR"]
 	path = RMVMR
 	url = https://github.com/WSpiller/RMVMR
