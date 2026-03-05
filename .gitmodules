@@ -47,7 +47,8 @@
 	url = https://github.com/QingCheng0218/MR.CUE
 [submodule "MR.Corr2"]
 	path = MR.Corr2
-	url = https://github.com/QingCheng0218/MR.Corr2
+	url = https://github.com/remlapmot/MR.Corr2
+	branch = suggestions
 [submodule "MR.LDP"]
 	path = MR.LDP
 	url = https://github.com/QingCheng0218/MR.LDP
