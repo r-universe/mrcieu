@@ -14,7 +14,8 @@
 	url = https://github.com/MRCIEU/CAMERA
 [submodule "CIVMR"]
 	path = CIVMR
-	url = https://github.com/LaiJiang/CIVMR
+	url = https://github.com/remlapmot/CIVMR
+	branch = suggestions
 [submodule "CheckSumStats"]
 	path = CheckSumStats
 	url = https://github.com/MRCIEU/CheckSumStats
