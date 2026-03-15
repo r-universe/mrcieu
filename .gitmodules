@@ -46,7 +46,8 @@
 	url = https://github.com/MRCIEU/GwasDataImport
 [submodule "MR.CUE"]
 	path = MR.CUE
-	url = https://github.com/QingCheng0218/MR.CUE
+	url = https://github.com/remlapmot/MR.CUE
+	branch = suggestions
 [submodule "MR.Corr2"]
 	path = MR.Corr2
 	url = https://github.com/remlapmot/MR.Corr2
@@ -109,6 +110,9 @@
 [submodule "MVMR"]
 	path = MVMR
 	url = https://github.com/WSpiller/MVMR
+[submodule "MVMR.CUE"]
+	path = MVMR.CUE
+	url = https://github.com/QingCheng0218/MVMR.CUE
 [submodule "MVMRcML"]
 	path = MVMRcML
 	url = https://github.com/ZhaotongL/MVMR-cML
@@ -131,6 +135,9 @@
 	path = RFQT
 	url = https://github.com/remlapmot/RFQT
 	branch = suggestions
+[submodule "RMR.ICP"]
+	path = RMR.ICP
+	url = https://github.com/QingCheng0218/RMR.ICP
 [submodule "RMVMR"]
 	path = RMVMR
 	url = https://github.com/WSpiller/RMVMR
