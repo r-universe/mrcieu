@@ -33,7 +33,8 @@
 	url = https://github.com/ZixuanWu1/FLOW-MR
 [submodule "GRAPPLE"]
 	path = GRAPPLE
-	url = https://github.com/jingshuw/GRAPPLE
+	url = https://github.com/remlapmot/GRAPPLE
+	branch = suggestions
 [submodule "GWASBrewer"]
 	path = GWASBrewer
 	url = https://github.com/jean997/GWASBrewer
