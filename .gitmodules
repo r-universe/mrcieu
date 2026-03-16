@@ -112,7 +112,8 @@
 	url = https://github.com/WSpiller/MVMR
 [submodule "MVMR.CUE"]
 	path = MVMR.CUE
-	url = https://github.com/QingCheng0218/MVMR.CUE
+	url = https://github.com/remlapmot/MVMR.CUE
+	branch = suggestions
 [submodule "MVMRcML"]
 	path = MVMRcML
 	url = https://github.com/ZhaotongL/MVMR-cML
@@ -137,7 +138,8 @@
 	branch = suggestions
 [submodule "RMR.ICP"]
 	path = RMR.ICP
-	url = https://github.com/QingCheng0218/RMR.ICP
+	url = https://github.com/remlapmot/RMR.ICP
+	branch = suggestions
 [submodule "RMVMR"]
 	path = RMVMR
 	url = https://github.com/WSpiller/RMVMR
