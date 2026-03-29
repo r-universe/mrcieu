@@ -158,6 +158,10 @@
 [submodule "TwoSampleMR"]
 	path = TwoSampleMR
 	url = https://github.com/MRCIEU/TwoSampleMR
+[submodule "aciccomp2016"]
+	path = aciccomp2016
+	url = https://github.com/vdorie/aciccomp
+	subdir = 2016
 [submodule "alspac"]
 	path = alspac
 	url = https://github.com/explodecomputer/alspac
@@ -213,6 +217,9 @@
 [submodule "gwasglue2"]
 	path = gwasglue2
 	url = https://github.com/MRCIEU/gwasglue2
+[submodule "gwasrapidd"]
+	path = gwasrapidd
+	url = https://github.com/ramiromagno/gwasrapidd
 [submodule "gwasvcf"]
 	path = gwasvcf
 	url = https://github.com/MRCIEU/gwasvcf
@@ -225,6 +232,9 @@
 [submodule "ieugwasr"]
 	path = ieugwasr
 	url = https://github.com/MRCIEU/ieugwasr
+[submodule "indexevent"]
+	path = indexevent
+	url = https://github.com/DudbridgeLab/indexevent
 [submodule "ivmodel"]
 	path = ivmodel
 	url = https://github.com/hyunseungkang/ivmodel
@@ -298,9 +308,15 @@
 [submodule "nlmr"]
 	path = nlmr
 	url = https://github.com/jrs95/nlmr
+[submodule "pcaMethods"]
+	path = pcaMethods
+	url = https://github.com/hredestig/pcaMethods
 [submodule "prop.coloc"]
 	path = prop.coloc
 	url = https://github.com/ash-res/prop-coloc
+[submodule "proxysnps"]
+	path = proxysnps
+	url = https://github.com/slowkow/proxysnps
 [submodule "robvis"]
 	path = robvis
 	url = https://github.com/remlapmot/robvis
