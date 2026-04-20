@@ -308,6 +308,9 @@
 [submodule "nlmr"]
 	path = nlmr
 	url = https://github.com/jrs95/nlmr
+[submodule "omiprep"]
+	path = omiprep
+	url = https://github.com/MRCIEU/omiprep
 [submodule "pcaMethods"]
 	path = pcaMethods
 	url = https://github.com/hredestig/pcaMethods
