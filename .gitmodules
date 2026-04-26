@@ -31,6 +31,9 @@
 [submodule "FLOWMR"]
 	path = FLOWMR
 	url = https://github.com/ZixuanWu1/FLOW-MR
+[submodule "FusioMR"]
+	path = FusioMR
+	url = https://github.com/kangbw702/FusioMR
 [submodule "GRAPPLE"]
 	path = GRAPPLE
 	url = https://github.com/remlapmot/GRAPPLE
