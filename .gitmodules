@@ -34,6 +34,7 @@
 [submodule "FusioMR"]
 	path = FusioMR
 	url = https://github.com/kangbw702/FusioMR
+	branch = refs/pull/1/head
 [submodule "GRAPPLE"]
 	path = GRAPPLE
 	url = https://github.com/remlapmot/GRAPPLE
