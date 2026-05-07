@@ -45,6 +45,9 @@
 [submodule "GenomicSEM"]
 	path = GenomicSEM
 	url = https://github.com/GenomicSEM/GenomicSEM
+[submodule "GraphMRcML"]
+	path = GraphMRcML
+	url = https://github.com/ZhaotongL/GraphMRcML
 [submodule "GwasDataImport"]
 	path = GwasDataImport
 	url = https://github.com/MRCIEU/GwasDataImport
