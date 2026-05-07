@@ -48,6 +48,7 @@
 [submodule "GraphMRcML"]
 	path = GraphMRcML
 	url = https://github.com/ZhaotongL/GraphMRcML
+	branch = refs/pull/2/head
 [submodule "GwasDataImport"]
 	path = GwasDataImport
 	url = https://github.com/MRCIEU/GwasDataImport
@@ -187,6 +188,9 @@
 [submodule "epigraphdb"]
 	path = epigraphdb
 	url = https://github.com/MRCIEU/epigraphdb-r
+[submodule "esmr"]
+	path = esmr
+	url = https://github.com/jean997/esmr
 [submodule "finemapr"]
 	path = finemapr
 	url = https://github.com/remlapmot/finemapr
