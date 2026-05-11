@@ -231,6 +231,9 @@
 [submodule "gwasvcf"]
 	path = gwasvcf
 	url = https://github.com/MRCIEU/gwasvcf
+[submodule "hapsim"]
+	path = hapsim
+	url = https://github.com/cran/hapsim
 [submodule "hdi"]
 	path = hdi
 	url = https://github.com/cran/hdi
