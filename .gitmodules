@@ -42,7 +42,7 @@
 [submodule "GWASBrewer"]
 	path = GWASBrewer
 	url = https://github.com/remlapmot/GWASBrewer
-	branch = suggestions-2
+	branch = suggestions-3
 [submodule "GenomicSEM"]
 	path = GenomicSEM
 	url = https://github.com/GenomicSEM/GenomicSEM
