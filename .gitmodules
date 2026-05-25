@@ -332,6 +332,9 @@
 [submodule "proxysnps"]
 	path = proxysnps
 	url = https://github.com/slowkow/proxysnps
+[submodule "qbaconfound"]
+	path = qbaconfound
+	url = https://github.com/remlapmot/qbaconfound
 [submodule "robvis"]
 	path = robvis
 	url = https://github.com/remlapmot/robvis
