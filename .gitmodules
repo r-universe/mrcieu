@@ -172,7 +172,7 @@
 	subdir = 2016
 [submodule "alspac"]
 	path = alspac
-	url = https://github.com/explodecomputer/alspac
+	url = https://github.com/alspac/alspac
 [submodule "bpbounds"]
 	path = bpbounds
 	url = https://github.com/remlapmot/bpbounds
