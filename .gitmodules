@@ -74,7 +74,8 @@
 	url = https://github.com/yuanzhongshang/MRAID
 [submodule "MRAPSS"]
 	path = MRAPSS
-	url = https://github.com/YangLabHKUST/MR-APSS
+	url = https://github.com/remlapmot/MR-APSS
+	branch = suggestions
 [submodule "MRBEE"]
 	path = MRBEE
 	url = https://github.com/noahlorinczcomi/MRBEE
