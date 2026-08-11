@@ -61,7 +61,8 @@
 	branch = suggestions
 [submodule "MR.LDP"]
 	path = MR.LDP
-	url = https://github.com/QingCheng0218/MR.LDP
+	url = https://github.com/remlapmot/MR.LDP
+	branch = suggestions
 [submodule "MR.RGM"]
 	path = MR.RGM
 	url = https://github.com/bitansa/MR.RGM
