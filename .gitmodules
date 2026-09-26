@@ -361,6 +361,7 @@
 [submodule "tryx"]
 	path = tryx
 	url = https://github.com/explodecomputer/tryx
+	branch = refs/pull/26/head
 [submodule "varGWASR"]
 	path = varGWASR
 	url = https://github.com/MRCIEU/varGWASR
