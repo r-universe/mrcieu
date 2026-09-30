@@ -352,6 +352,7 @@
 [submodule "simulateGP"]
 	path = simulateGP
 	url = https://github.com/explodecomputer/simulateGP
+	branch = refs/pull/6/head
 [submodule "sisVIVE"]
 	path = sisVIVE
 	url = https://github.com/cran/sisVIVE
