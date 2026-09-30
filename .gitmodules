@@ -349,6 +349,9 @@
 [submodule "simmrd"]
 	path = simmrd
 	url = https://github.com/noahlorinczcomi/simmrd
+[submodule "simulateGP"]
+	path = simulateGP
+	url = https://github.com/explodecomputer/simulateGP
 [submodule "sisVIVE"]
 	path = sisVIVE
 	url = https://github.com/cran/sisVIVE
